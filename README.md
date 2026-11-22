@@ -1,25 +1,27 @@
-# Adonis 的技术收藏
+# Adonis's tech collection
 
-收录 398 个 GitHub 仓库和 24 条 X 帖子，分为 12 个分类。
+English | [简体中文](README.zh-CN.md)
 
-**[打开在线目录 →](https://adonis0123.github.io/stars/)** 可搜索、筛选，按 star 数排序。
+Collects 398 GitHub repositories and 24 X posts, in 12 Categories. Summaries and Tags are in Chinese.
 
-## 目录
+**[Open the online catalog →](https://adonis0123.github.io/stars/)** Search, filter and sort by stars there.
 
-- [AI 编程 Agent](#ai-编程-agent)（37）
-- [Agent 技能与插件](#agent-技能与插件)（69）
-- [AI 视频与动画](#ai-视频与动画)（41）
-- [AI 图像与设计](#ai-图像与设计)（23）
-- [前端与 UI](#前端与-ui)（85）
-- [开发工具与终端](#开发工具与终端)（62）
-- [AI 应用与平台](#ai-应用与平台)（43）
-- [模型与评测](#模型与评测)（4）
-- [效率与桌面应用](#效率与桌面应用)（20）
-- [AI 工程方法与观点](#ai-工程方法与观点)（19）
-- [资料合集](#资料合集)（15）
-- [未分类](#未分类)（4）
+## Contents
 
-## AI 编程 Agent
+- [AI coding agents](#ai-coding-agents) (37)
+- [Agent skills and plugins](#agent-skills-and-plugins) (69)
+- [AI video and animation](#ai-video-and-animation) (41)
+- [AI images and design](#ai-images-and-design) (23)
+- [Front end and UI](#front-end-and-ui) (85)
+- [Developer tools and terminals](#developer-tools-and-terminals) (62)
+- [AI apps and platforms](#ai-apps-and-platforms) (43)
+- [Models and benchmarks](#models-and-benchmarks) (4)
+- [Productivity and desktop apps](#productivity-and-desktop-apps) (20)
+- [AI engineering methods and opinions](#ai-engineering-methods-and-opinions) (19)
+- [Collections and references](#collections-and-references) (15)
+- [Uncategorized](#uncategorized) (4)
+
+## AI coding agents
 
 - X · [@FiniYang](https://x.com/FiniYang/status/2123725927414972793) — 讲解用 AI 从一句话做微信 3D 小游戏、过审到接广告的四步流程，并附开源插件与提示词<br><sub>教程 · 微信小游戏 · Agent</sub>
 - [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) — 自托管编排应用，把 Claude Code、Codex 等编程智能体接入 Slack 等聊天工具<br><sub>Python · 应用 · 多智能体 · MCP</sub>
@@ -59,9 +61,9 @@
 - [github/spec-kit](https://github.com/github/spec-kit) — 用规格驱动开发流程来带动 AI 编程助手的工具包<br><sub>Python · 工具 · SDD · Spec</sub>
 - [winfunc/opcode](https://github.com/winfunc/opcode) — 用于创建 Agent、管理 Claude Code 会话和后台任务的图形界面<br><sub>TypeScript · 应用 · Claude Code · 会话管理</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## Agent 技能与插件
+## Agent skills and plugins
 
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2123798388227403983) — 一条让编程 Agent 把代码注释分成同义反复、借口等类型的长提示词<br><sub>Skill/插件 · 提示词 · 代码注释</sub>
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 让编程智能体用一页可读 HTML 回答复杂问题的技能<br><sub>JavaScript · Skill/插件 · HTML · Claude Code</sub>
@@ -133,9 +135,9 @@
 - [intellectronica/ruler](https://github.com/intellectronica/ruler) — 把同一套规则同步应用到多种编码 Agent 的工具<br><sub>TypeScript · 工具 · 规则 · Claude Code</sub>
 - [upstash/context7](https://github.com/upstash/context7) — 给编程 Agent 提供最新版本文档的 MCP 服务，避免按过时 API 写代码<br><sub>TypeScript · Skill/插件 · MCP · 文档</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## AI 视频与动画
+## AI video and animation
 
 - [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) — 逐镜头逆向拆解实拍、AI 或代码视频，并说明如何复刻<br><sub>Python · Skill/插件 · 视频拆解 · Remotion</sub>
 - [nexu-io/openmotion](https://github.com/nexu-io/openmotion) — 把参考视频做成可编辑动效并导出短视频的开源智能视频工作室<br><sub>TypeScript · video · motion-graphics</sub>
@@ -179,9 +181,9 @@
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) — 覆盖分镜到成片的工业级 AI 影视生产平台<br><sub>TypeScript · 应用 · AI视频 · 影视</sub>
 - [op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill) — 用于剪辑 YouTube 视频片段的 Agent 技能<br><sub>Python · Skill/插件 · YouTube · 视频剪辑</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## AI 图像与设计
+## AI images and design
 
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 给 Claude Code、Cursor 和 Codex 用的反 AI 俗套设计技能<br><sub>CSS · Skill/插件 · 设计 · Claude Code</sub>
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 配合 Stitch MCP 的智能体技能库，供编程智能体做界面设计<br><sub>TypeScript · Skill/插件 · 设计 · MCP</sub>
@@ -207,9 +209,9 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — 为多平台界面提供专业 UI/UX 设计判断的 AI 技能<br><sub>Python · Skill/插件 · UI/UX · 设计</sub>
 - [yftan/christmas-tree](https://github.com/yftan/christmas-tree) — 用 Gemini 生成圣诞树照片的小应用<br><sub>TypeScript · 应用 · 图像生成 · Gemini</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 前端与 UI
+## Front end and UI
 
 - X · [@criscxuan](https://x.com/criscxuan/status/2123814929941819610) — 推荐 Awwwards 本月优秀网站合集，称其为顶尖网页创意展示<br><sub>合集 · 网页设计 · Awwwards</sub>
 - [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) — 用 GLSL 编写的开源 WebGL 转场效果集合<br><sub>GLSL · 库 · WebGL · 转场</sub>
@@ -297,9 +299,9 @@
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) — 基于 Vue 和 Element UI 的中后台管理系统模板<br><sub>Vue · 模板 · 后台管理 · Element UI</sub>
 - [tooann/shell](https://github.com/tooann/shell) — 用 Vue 2 高仿饿了么外卖的前端演示项目<br><sub>Vue · 应用 · 外卖 · 前端</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 开发工具与终端
+## Developer tools and terminals
 
 - [google/three-live](https://github.com/google/three-live) — 面向安卓、苹果和网页的原生三维与 CAD 运行时及即时编译器<br><sub>TypeScript · 库 · 3D · CAD</sub>
 - [expo/exact](https://github.com/expo/exact) — 一次编写即可在网页、macOS、iOS 和 Linux 上原生运行的应用框架<br><sub>Rust · 库 · 跨平台 · 原生应用</sub>
@@ -364,9 +366,9 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — 管理 zsh 配置、插件和主题的社区框架<br><sub>Shell · 工具 · zsh · 终端</sub>
 - [bgwd666/bgwd-deploy](https://github.com/bgwd666/bgwd-deploy) — 简单的前端自动部署工具<br><sub>JavaScript · 工具 · 部署 · 前端</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## AI 应用与平台
+## AI apps and platforms
 
 - X · [@ZeroZ\_JQ](https://x.com/ZeroZ_JQ/status/2124122596312801491) — 称赞 Claude 里的白板很好用，觉得特别适合学习<br><sub>文章/观点 · Claude · 白板</sub>
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 供 AI Agent 使用的电脑桌面操作命令行工具<br><sub>Rust · 工具 · computer-use · CLI</sub>
@@ -412,18 +414,18 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) — 微软开源的智能体开发框架，用来构建可互相协作的 AI Agent<br><sub>Python · 库 · Agent 框架 · 多智能体</sub>
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 面向智能体的检索增强生成引擎与上下文基础设施<br><sub>Go · 应用 · RAG · 检索</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 模型与评测
+## Models and benchmarks
 
 - [AlibabaResearch/cut-craft-bench](https://github.com/AlibabaResearch/cut-craft-bench) — 评测多镜头音视频生成中专业剪辑手法执行能力的基准<br><sub>Python · 模型 · 评测 · 视频生成</sub>
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) — 可在 Mac 和多种显卡上本地运行的音乐生成模型<br><sub>Python · 模型 · 音乐生成</sub>
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) — 提供推理代码与权重的 Segment Anything 图像分割模型<br><sub>Jupyter Notebook · 模型 · 图像分割 · 计算机视觉</sub>
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) — 汇总各类 AI 模型信息的开源数据库<br><sub>TypeScript · 合集 · 模型 · 数据库</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 效率与桌面应用
+## Productivity and desktop apps
 
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) — 把安卓短信、来电和通知按规则转发到其他渠道的应用<br><sub>Kotlin · 应用 · Android · 短信</sub>
 - [zanderzhng/jd-invoice-tool](https://github.com/zanderzhng/jd-invoice-tool) — 用来给京东订单快速重新开发票的小工具<br><sub>Vue · 工具 · 发票 · 京东</sub>
@@ -446,9 +448,9 @@
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) — 基于 Tauri 的跨平台 Clash 代理图形客户端<br><sub>TypeScript · 应用 · 代理 · Tauri</sub>
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) — 基于无障碍和订阅规则的安卓自动点击应用<br><sub>Kotlin · 应用 · Android · 无障碍</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## AI 工程方法与观点
+## AI engineering methods and opinions
 
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2124214098984370645) — 设想用滑动打分小应用逐句评价例句，让智能体学会你的写作风格<br><sub>文章/观点 · Agent · 写作风格</sub>
 - X · [@dotey](https://x.com/dotey/status/2120961974519398535) — 译文认为纯写代码的价值在下降，软件工程师应转向管理 AI<br><sub>文章/观点 · 软件工程师 · 职业</sub>
@@ -470,9 +472,9 @@
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) — 讲解上下文工程的入门教程，说明怎样让 Claude Code 等编程助手稳定完成任务<br><sub>Python · 教程 · 上下文工程 · Claude Code</sub>
 - [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) — 讨论如何成为一名自洽程序员的文章或指南<br><sub>Shell · 文章/观点 · 职业 · 编程</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 资料合集
+## Collections and references
 
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) — macOS 上用 JavaScript 做自动化的 JXA 手册<br><sub>Ruby · 教程 · JXA · macOS</sub>
 - [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) — 收集有免费额度的 SaaS、PaaS 和 IaaS 服务清单<br><sub>合集 · SaaS · 免费</sub>
@@ -490,21 +492,21 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) — 持续收录 GitHub 上优质开源项目、教程与开发者资讯的合集<br><sub>合集 · GitHub · 开源</sub>
 - [yunsii/awesome-exhibition](https://github.com/yunsii/awesome-exhibition) — 汇集有趣展览内容的 Awesome 列表<br><sub>TypeScript · 合集 · 展览</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
-## 未分类
+## Uncategorized
 
 - [gaoypeng/3dcodeverse](https://github.com/gaoypeng/3dcodeverse) — 3DCodeVerse 的官方代码库，仓库说明未写明具体用途<br><sub>Python · 库 · 3D</sub>
 - [google-research/harness2](https://github.com/google-research/harness2) — Google Research 的 harness2 代码库，暂无简介<br><sub>Python · 库 · 研究</sub>
 - [alex-remade/infinite-tv](https://github.com/alex-remade/infinite-tv) — 简介为空的 Python 仓库，名称是 infinite-tv，具体用途不明<br><sub>Python · 应用</sub>
 - [michaelmagan/cheatsheet](https://github.com/michaelmagan/cheatsheet) — 名为 cheatsheet 的 TypeScript 仓库，缺少说明，用途不明<br><sub>TypeScript · 合集 · 速查表</sub>
 
-[↑ 回到目录](#目录)
+[↑ Back to contents](#contents)
 
 ---
 
-数据：[data/items.json](data/items.json)
+Data: [data/items.json](data/items.json)
 
-分类与摘要由 AI 辅助整理，待确认状态见[在线目录](https://adonis0123.github.io/stars/)。
+Categories and Summaries are sorted out with AI help; what still needs review is shown in the [online catalog](https://adonis0123.github.io/stars/).
 
-由 [starsieve](https://github.com/Adonis0123/starsieve) 自动生成，请勿手改。
+Generated by [starsieve](https://github.com/Adonis0123/starsieve); do not edit by hand.
