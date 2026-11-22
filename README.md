@@ -507,4 +507,4 @@
 
 分类与摘要由 AI 辅助整理，待确认状态见[在线目录](https://adonis0123.github.io/stars/)。
 
-由 starsieve 自动生成，请勿手改。
+由 [starsieve](https://github.com/Adonis0123/starsieve) 自动生成，请勿手改。
