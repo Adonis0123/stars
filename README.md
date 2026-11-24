@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Collects 398 GitHub repositories and 24 X posts, in 12 Categories. Summaries and Tags are in Chinese.
+Collects 398 GitHub repositories and 25 X posts, in 12 Categories. Summaries and Tags are in Chinese.
 
 **[Open the online catalog →](https://adonis0123.github.io/stars/)** Search, filter and sort by stars there.
 
@@ -14,7 +14,7 @@ Collects 398 GitHub repositories and 24 X posts, in 12 Categories. Summaries and
 - [AI images and design](#ai-images-and-design) (23)
 - [Front end and UI](#front-end-and-ui) (85)
 - [Developer tools and terminals](#developer-tools-and-terminals) (62)
-- [AI apps and platforms](#ai-apps-and-platforms) (43)
+- [AI apps and platforms](#ai-apps-and-platforms) (44)
 - [Models and benchmarks](#models-and-benchmarks) (4)
 - [Productivity and desktop apps](#productivity-and-desktop-apps) (20)
 - [AI engineering methods and opinions](#ai-engineering-methods-and-opinions) (19)
@@ -370,6 +370,7 @@ Collects 398 GitHub repositories and 24 X posts, in 12 Categories. Summaries and
 
 ## AI apps and platforms
 
+- X · [@don\_tech1](https://x.com/don_tech1/status/2124630542738202805) — Google 开源的零依赖 Go 命令行，供 AI Agent 调用 Gemini 多模态接口<br><sub>工具 · Gemini · CLI</sub>
 - X · [@ZeroZ\_JQ](https://x.com/ZeroZ_JQ/status/2124122596312801491) — 称赞 Claude 里的白板很好用，觉得特别适合学习<br><sub>文章/观点 · Claude · 白板</sub>
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 供 AI Agent 使用的电脑桌面操作命令行工具<br><sub>Rust · 工具 · computer-use · CLI</sub>
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — 探索更自主 Agent 系统的 DeepSeek 原型<br><sub>TypeScript · 库 · Agent · DeepSeek</sub>
