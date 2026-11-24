@@ -24,7 +24,7 @@
       "language": "Python",
       "name": "sandbox-quantum/switch",
       "needsReview": true,
-      "stargazers": 4689,
+      "stargazers": 4699,
       "starredAt": "2026-11-19T16:23:59Z",
       "summary": "自托管编排应用，把 Claude Code、Codex 等编程智能体接入 Slack 等聊天工具。",
       "tags": [
@@ -81,7 +81,7 @@
       "language": "TypeScript",
       "name": "deepseek-ai/deepseek-harness",
       "needsReview": true,
-      "stargazers": 285372,
+      "stargazers": 286066,
       "starredAt": "2026-11-10T03:45:54Z",
       "summary": "DeepSeek 的智能体底座，把能力都做成插件。",
       "tags": [
@@ -136,7 +136,7 @@
       "language": "Go",
       "name": "yetone/magpie",
       "needsReview": false,
-      "stargazers": 39939,
+      "stargazers": 40464,
       "starredAt": "2026-10-04T07:38:32Z",
       "summary": "在菜单栏切换模型，让 Codex 和 Claude Code 用不同模型。",
       "tags": [
@@ -165,7 +165,7 @@
       "language": "TypeScript",
       "name": "earendil-works/pi",
       "needsReview": true,
-      "stargazers": 123292,
+      "stargazers": 123523,
       "starredAt": "2026-09-18T13:08:58Z",
       "summary": "含统一模型接口、代理循环、终端界面和编程命令行的 AI 代理工具包。",
       "tags": [
@@ -215,7 +215,7 @@
       "language": "Rust",
       "name": "xai-org/grok-build",
       "needsReview": false,
-      "stargazers": 27826,
+      "stargazers": 27837,
       "starredAt": "2026-08-03T10:51:48Z",
       "summary": "SpaceXAI 的编程 Agent 运行框架和全屏交互终端。",
       "tags": [
@@ -236,7 +236,7 @@
       "language": "TypeScript",
       "name": "cheaper-inference/OmniRoute",
       "needsReview": true,
-      "stargazers": 89515,
+      "stargazers": 89884,
       "starredAt": "2026-08-01T15:09:21Z",
       "summary": "面向 Claude Code、Codex、Cursor 的多模型网关，可自动切换并压缩 token。",
       "tags": [
@@ -278,7 +278,7 @@
       "language": "JavaScript",
       "name": "QoderAI/better-harness",
       "needsReview": true,
-      "stargazers": 2475,
+      "stargazers": 2476,
       "starredAt": "2026-07-28T15:33:41Z",
       "summary": "把编程 Agent 的 Harness 写成代码，并做实验对比和结果检查的平台。",
       "tags": [
@@ -309,7 +309,7 @@
       "language": "TypeScript",
       "name": "stablyai/orca",
       "needsReview": false,
-      "stargazers": 132537,
+      "stargazers": 134476,
       "starredAt": "2026-07-27T13:32:23Z",
       "summary": "用自己的订阅同时调度多台 Claude Code、Codex 等编程 Agent 的应用。",
       "tags": [
@@ -351,7 +351,7 @@
       "language": "Swift",
       "name": "slopus/happy",
       "needsReview": false,
-      "stargazers": 24757,
+      "stargazers": 24778,
       "starredAt": "2026-07-13T08:44:35Z",
       "summary": "在一个应用里编排 Claude、Codex 和 Grok 编程 Agent。",
       "tags": [
@@ -404,7 +404,7 @@
       "language": "TypeScript",
       "name": "hanshuaikang/nezha",
       "needsReview": false,
-      "stargazers": 1899,
+      "stargazers": 1901,
       "starredAt": "2026-04-28T15:34:29Z",
       "summary": "可在本机多项目并行运行 Claude Code 和 Codex 的代码编辑器。",
       "tags": [
@@ -433,7 +433,7 @@
       "language": "Python",
       "name": "browser-use/browser-harness",
       "needsReview": false,
-      "stargazers": 19190,
+      "stargazers": 19215,
       "starredAt": "2026-04-21T19:47:28Z",
       "summary": "让 Claude Code、Codex 或 Cursor 使用你已登录的真实 Chrome。",
       "tags": [
@@ -476,7 +476,7 @@
       "language": "TypeScript",
       "name": "google-gemini/gemini-cli",
       "needsReview": false,
-      "stargazers": 108993,
+      "stargazers": 109024,
       "starredAt": "2026-04-18T07:04:27Z",
       "summary": "把 Gemini 带进终端的开源 AI Agent 命令行。",
       "tags": [
@@ -547,7 +547,7 @@
       "language": "Swift",
       "name": "manaflow-ai/cmux",
       "needsReview": false,
-      "stargazers": 28866,
+      "stargazers": 28924,
       "starredAt": "2026-03-30T06:08:14Z",
       "summary": "基于 Ghostty 的 macOS 终端，用垂直标签和通知管理多个 AI 编程 Agent。",
       "tags": [
@@ -622,7 +622,7 @@
       "language": "Python",
       "name": "shareAI-lab/learn-claude-code",
       "needsReview": false,
-      "stargazers": 80722,
+      "stargazers": 80799,
       "starredAt": "2026-03-20T14:35:10Z",
       "summary": "从零讲透如何实现一个类似 Claude Code 的迷你 agent harness。",
       "tags": [
@@ -654,7 +654,7 @@
       "language": "Python",
       "name": "langchain-ai/open-swe",
       "needsReview": false,
-      "stargazers": 11249,
+      "stargazers": 11253,
       "starredAt": "2026-03-20T06:07:17Z",
       "summary": "开源异步编程 Agent，用来自动完成软件工程任务。",
       "tags": [
@@ -725,7 +725,7 @@
       "language": "Go",
       "name": "Wei-Shaw/sub2api",
       "needsReview": false,
-      "stargazers": 46434,
+      "stargazers": 46516,
       "starredAt": "2026-03-15T02:34:53Z",
       "summary": "把 Claude、OpenAI、Gemini 和 Grok 订阅统一转成 API 的中转服务。",
       "tags": [
@@ -756,7 +756,7 @@
       "language": "Python",
       "name": "AsyncFuncAI/AsyncReview",
       "needsReview": false,
-      "stargazers": 463,
+      "stargazers": 462,
       "starredAt": "2026-03-11T16:11:20Z",
       "summary": "用递归语言模型做代码审查的开源 Agent 工具。",
       "tags": [
@@ -776,7 +776,7 @@
       "language": "Elixir",
       "name": "openai/symphony",
       "needsReview": false,
-      "stargazers": 28126,
+      "stargazers": 28137,
       "starredAt": "2026-03-07T15:49:40Z",
       "summary": "把项目工作变成隔离的自主编码任务，让团队管理编程 Agent 的执行。",
       "tags": [
@@ -797,7 +797,7 @@
       "language": "TypeScript",
       "name": "paperclipai/paperclip",
       "needsReview": false,
-      "stargazers": 115817,
+      "stargazers": 116338,
       "starredAt": "2026-03-07T15:46:24Z",
       "summary": "在工作中编排和治理多个编程 Agent 的开源应用。",
       "tags": [
@@ -840,7 +840,7 @@
       "language": "TypeScript",
       "name": "anomalyco/opencode",
       "needsReview": false,
-      "stargazers": 228512,
+      "stargazers": 228808,
       "starredAt": "2026-01-11T12:44:46Z",
       "summary": "开源的终端编程 Agent，用来在本地驱动模型写代码。",
       "tags": [
@@ -861,7 +861,7 @@
       "language": "TypeScript",
       "name": "anthropics/claude-code",
       "needsReview": false,
-      "stargazers": 156646,
+      "stargazers": 156825,
       "starredAt": "2026-01-04T08:02:01Z",
       "summary": "驻留在终端里的智能编程代理，能理解代码库并协助完成开发任务。",
       "tags": [
@@ -882,7 +882,7 @@
       "language": "Rust",
       "name": "farion1231/cc-switch",
       "needsReview": false,
-      "stargazers": 156325,
+      "stargazers": 156638,
       "starredAt": "2025-12-22T15:05:28Z",
       "summary": "为 Claude Code、Codex 等编程代理管理供应商与技能的桌面应用。",
       "tags": [
@@ -924,7 +924,7 @@
       "language": "JavaScript",
       "name": "Wei-Shaw/claude-relay-service",
       "needsReview": false,
-      "stargazers": 12826,
+      "stargazers": 12828,
       "starredAt": "2025-12-18T03:37:26Z",
       "summary": "把 Claude、OpenAI、Gemini 等订阅统一接入的编程代理中转服务。",
       "tags": [
@@ -956,7 +956,7 @@
       "language": "TypeScript",
       "name": "UfoMiao/zcf",
       "needsReview": false,
-      "stargazers": 6066,
+      "stargazers": 6065,
       "starredAt": "2025-11-27T09:47:55Z",
       "summary": "给 Claude Code 和 Codex 一键配好代码工作流的命令行工具。",
       "tags": [
@@ -999,7 +999,7 @@
       "language": "TypeScript",
       "name": "aidenybai/react-grab",
       "needsReview": true,
-      "stargazers": 7736,
+      "stargazers": 7738,
       "starredAt": "2025-11-20T01:49:20Z",
       "summary": "在页面上点选界面元素，复制成编程 Agent 可用的上下文。",
       "tags": [
@@ -1025,7 +1025,7 @@
       "language": "Python",
       "name": "github/spec-kit",
       "needsReview": true,
-      "stargazers": 150993,
+      "stargazers": 151161,
       "starredAt": "2025-11-09T15:01:32Z",
       "summary": "用规格驱动开发流程来带动 AI 编程助手的工具包。",
       "tags": [
@@ -1054,7 +1054,7 @@
       "language": "TypeScript",
       "name": "winfunc/opcode",
       "needsReview": false,
-      "stargazers": 22456,
+      "stargazers": 22462,
       "starredAt": "2025-08-24T14:46:26Z",
       "summary": "用于创建 Agent、管理 Claude Code 会话和后台任务的图形界面。",
       "tags": [
@@ -1105,7 +1105,7 @@
       "language": "JavaScript",
       "name": "QingYunA/answer-me-with-html",
       "needsReview": false,
-      "stargazers": 6598,
+      "stargazers": 6627,
       "starredAt": "2026-11-17T16:32:24Z",
       "summary": "让编程智能体用一页可读 HTML 回答复杂问题的技能。",
       "tags": [
@@ -1140,7 +1140,7 @@
       "language": null,
       "name": "GoogleChrome/modern-web-guidance",
       "needsReview": true,
-      "stargazers": 24838,
+      "stargazers": 25531,
       "starredAt": "2026-11-11T15:59:49Z",
       "summary": "让编程智能体跟上最新 Web 最佳实践的指导工具。",
       "tags": [
@@ -1161,7 +1161,7 @@
       "language": "Python",
       "name": "wshobson/agents",
       "needsReview": false,
-      "stargazers": 42786,
+      "stargazers": 42845,
       "starredAt": "2026-11-10T05:36:05Z",
       "summary": "用 Markdown 编写、可适配多种编程智能体的插件与技能集。",
       "tags": [
@@ -1203,7 +1203,7 @@
       "language": "TypeScript",
       "name": "cursor/plugins",
       "needsReview": false,
-      "stargazers": 18280,
+      "stargazers": 18795,
       "starredAt": "2026-11-09T16:20:24Z",
       "summary": "Cursor 的插件规范与官方插件。",
       "tags": [
@@ -1224,7 +1224,7 @@
       "language": null,
       "name": "unclebob/ub-mode",
       "needsReview": true,
-      "stargazers": 8317,
+      "stargazers": 8438,
       "starredAt": "2026-10-28T13:22:21Z",
       "summary": "Uncle Bob 的 ub-mode 仓库，暂无简介。",
       "tags": [
@@ -1273,7 +1273,7 @@
       "language": "TypeScript",
       "name": "morluto/rea",
       "needsReview": true,
-      "stargazers": 473503,
+      "stargazers": 475575,
       "starredAt": "2026-10-21T09:25:23Z",
       "summary": "借助 Agent 逆向应用行为和本地二进制的工具。",
       "tags": [
@@ -1316,7 +1316,7 @@
       "language": "TypeScript",
       "name": "davebcn87/pi-autoresearch",
       "needsReview": false,
-      "stargazers": 8255,
+      "stargazers": 8259,
       "starredAt": "2026-09-23T14:49:04Z",
       "summary": "给 pi 编程代理加的自主实验循环扩展。",
       "tags": [
@@ -1363,7 +1363,7 @@
       "language": "Swift",
       "name": "alchaincyf/huashu-mac-use",
       "needsReview": false,
-      "stargazers": 348,
+      "stargazers": 350,
       "starredAt": "2026-09-06T16:15:52Z",
       "summary": "让编程代理操控没有接口的 Mac 原生应用，读写留证且尽量不打扰。",
       "tags": [
@@ -1398,7 +1398,7 @@
       "language": "TypeScript",
       "name": "ChromeDevTools/chrome-devtools-mcp",
       "needsReview": false,
-      "stargazers": 58766,
+      "stargazers": 59022,
       "starredAt": "2026-08-12T03:05:03Z",
       "summary": "供编程 Agent 调用 Chrome DevTools 调试网页的 MCP 服务。",
       "tags": [
@@ -1428,7 +1428,7 @@
       "language": "Python",
       "name": "oil-oil/oil-motion",
       "needsReview": false,
-      "stargazers": 2952,
+      "stargazers": 2974,
       "starredAt": "2026-08-09T00:38:30Z",
       "summary": "让 Claude Code 和 Codex 制作滚动与鼠标交互动画的技能。",
       "tags": [
@@ -1469,7 +1469,7 @@
       "language": "JavaScript",
       "name": "tt-a1i/archify",
       "needsReview": false,
-      "stargazers": 98706,
+      "stargazers": 99111,
       "starredAt": "2026-08-08T01:31:41Z",
       "summary": "把想法、计划或代码库变成交互式架构图的 Agent 技能。",
       "tags": [
@@ -1511,7 +1511,7 @@
       "language": "Python",
       "name": "ayghri/i-have-adhd",
       "needsReview": false,
-      "stargazers": 61930,
+      "stargazers": 62064,
       "starredAt": "2026-08-01T14:51:07Z",
       "summary": "让编程 Agent 先写结论、避免把答案埋进长文的输出技能。",
       "tags": [
@@ -1539,7 +1539,7 @@
       "language": "TypeScript",
       "name": "Tencent/SkillHone",
       "needsReview": false,
-      "stargazers": 199,
+      "stargazers": 200,
       "starredAt": "2026-07-24T05:32:54Z",
       "summary": "靠决策历史持续改写 Agent 技能，并把每次决策记到本地 Git。",
       "tags": [
@@ -1565,7 +1565,7 @@
       "language": "Markdown",
       "name": "emilkowalski/skills",
       "needsReview": true,
-      "stargazers": 58762,
+      "stargazers": 59083,
       "starredAt": "2026-07-16T08:30:30Z",
       "summary": "面向设计师和工程师的编程 Agent 技能集合。",
       "tags": [
@@ -1594,7 +1594,7 @@
       "language": "Python",
       "name": "bradautomates/claude-video",
       "needsReview": false,
-      "stargazers": 21513,
+      "stargazers": 21647,
       "starredAt": "2026-07-07T00:34:03Z",
       "summary": "给 Claude 增加看视频的能力，自动下载、抽帧并转写。",
       "tags": [
@@ -1615,7 +1615,7 @@
       "language": "Python",
       "name": "op7418/Humanizer-zh",
       "needsReview": false,
-      "stargazers": 23541,
+      "stargazers": 23637,
       "starredAt": "2026-06-15T00:36:57Z",
       "summary": "Claude Code 技能的汉化版，用来消除文本里的 AI 生成痕迹。",
       "tags": [
@@ -1636,7 +1636,7 @@
       "language": null,
       "name": "greensock/gsap-skills",
       "needsReview": true,
-      "stargazers": 18898,
+      "stargazers": 18967,
       "starredAt": "2026-06-01T02:59:14Z",
       "summary": "GSAP 官方技能，教编程 Agent 正确使用这个动画库。",
       "tags": [
@@ -1657,7 +1657,7 @@
       "language": "Python",
       "name": "anthropics/knowledge-work-plugins",
       "needsReview": true,
-      "stargazers": 36671,
+      "stargazers": 36736,
       "starredAt": "2026-05-28T00:59:26Z",
       "summary": "供知识工作者在 Claude Cowork 里使用的开源插件。",
       "tags": [
@@ -1678,7 +1678,7 @@
       "language": "JavaScript",
       "name": "ConardLi/garden-skills",
       "needsReview": false,
-      "stargazers": 15640,
+      "stargazers": 15703,
       "starredAt": "2026-05-24T14:15:21Z",
       "summary": "涵盖网页设计、知识检索和图像生成的 Agent 技能合集。",
       "tags": [
@@ -1776,7 +1776,7 @@
       "language": "TypeScript",
       "name": "thedotmack/claude-mem",
       "needsReview": false,
-      "stargazers": 118952,
+      "stargazers": 119323,
       "starredAt": "2026-04-28T16:20:27Z",
       "summary": "记录编程 Agent 的会话，并在之后回注相关上下文。",
       "tags": [
@@ -1818,7 +1818,7 @@
       "language": "JavaScript",
       "name": "addyosmani/agent-skills",
       "needsReview": false,
-      "stargazers": 119685,
+      "stargazers": 119995,
       "starredAt": "2026-04-21T05:17:02Z",
       "summary": "给 AI 编程 Agent 用的一套生产级工程技能。",
       "tags": [
@@ -1846,7 +1846,7 @@
       "language": null,
       "name": "multica-ai/andrej-karpathy-skills",
       "needsReview": false,
-      "stargazers": 235019,
+      "stargazers": 235313,
       "starredAt": "2026-04-16T00:59:07Z",
       "summary": "一份依据 Karpathy 对大模型编程问题的观察写成的 CLAUDE.md。",
       "tags": [
@@ -1866,7 +1866,7 @@
       "language": "TypeScript",
       "name": "JCodesMore/ai-website-cloner-template",
       "needsReview": false,
-      "stargazers": 39614,
+      "stargazers": 39677,
       "starredAt": "2026-04-13T08:38:46Z",
       "summary": "供 AI 编程 Agent 一条命令克隆任意网站的模板。",
       "tags": [
@@ -1929,7 +1929,7 @@
       "language": "Python",
       "name": "Graphify-Labs/graphify",
       "needsReview": false,
-      "stargazers": 151809,
+      "stargazers": 152534,
       "starredAt": "2026-04-08T15:24:55Z",
       "summary": "把代码库、文档和配置变成可查询知识图谱的编程 Agent 技能。",
       "tags": [
@@ -1972,7 +1972,7 @@
       "language": "Python",
       "name": "alchaincyf/nuwa-skill",
       "needsReview": false,
-      "stargazers": 38795,
+      "stargazers": 38887,
       "starredAt": "2026-04-06T11:26:26Z",
       "summary": "把他人的思维方式、决策习惯和表达风格蒸馏成 Agent 技能。",
       "tags": [
@@ -2036,7 +2036,7 @@
       "language": "JavaScript",
       "name": "gsd-build/get-shit-done",
       "needsReview": false,
-      "stargazers": 64115,
+      "stargazers": 64113,
       "starredAt": "2026-04-01T16:29:59Z",
       "summary": "给 Claude Code 用的元提示与规格驱动开发系统，用来做上下文工程。",
       "tags": [
@@ -2062,7 +2062,7 @@
       "language": "JavaScript",
       "name": "openai/codex-plugin-cc",
       "needsReview": false,
-      "stargazers": 35348,
+      "stargazers": 35404,
       "starredAt": "2026-03-31T03:24:49Z",
       "summary": "Claude Code 插件，可把代码审查和任务委派给 Codex。",
       "tags": [
@@ -2082,7 +2082,7 @@
       "language": "Python",
       "name": "googleanalytics/google-analytics-mcp",
       "needsReview": false,
-      "stargazers": 3849,
+      "stargazers": 3852,
       "starredAt": "2026-03-30T08:37:39Z",
       "summary": "供 AI Agent 查询 Google Analytics 数据的官方 MCP 服务。",
       "tags": [
@@ -2103,7 +2103,7 @@
       "language": "C#",
       "name": "MiniMax-AI/skills",
       "needsReview": true,
-      "stargazers": 13889,
+      "stargazers": 13906,
       "starredAt": "2026-03-24T00:48:55Z",
       "summary": "MiniMax 的技能仓库，简介为空，从名称看是 Agent 技能集合。",
       "tags": [
@@ -2122,7 +2122,7 @@
       "language": "TypeScript",
       "name": "sirmalloc/ccstatusline",
       "needsReview": false,
-      "stargazers": 13658,
+      "stargazers": 13676,
       "starredAt": "2026-03-21T13:57:21Z",
       "summary": "可换主题的 Claude Code 命令行状态栏，支持 Powerline。",
       "tags": [
@@ -2154,7 +2154,7 @@
       "language": "TypeScript",
       "name": "garrytan/gstack",
       "needsReview": false,
-      "stargazers": 142332,
+      "stargazers": 142473,
       "starredAt": "2026-03-21T04:07:09Z",
       "summary": "Garry Tan 的 Claude Code 配置，含产品、设计、工程和发布等角色工具。",
       "tags": [
@@ -2174,7 +2174,7 @@
       "language": "JavaScript",
       "name": "jarrodwatts/claude-hud",
       "needsReview": false,
-      "stargazers": 29286,
+      "stargazers": 29291,
       "starredAt": "2026-03-18T16:14:31Z",
       "summary": "Claude Code 插件，展示上下文、工具、子 Agent 和待办进度。",
       "tags": [
@@ -2202,7 +2202,7 @@
       "language": "Shell",
       "name": "uditgoenka/autoresearch",
       "needsReview": false,
-      "stargazers": 6850,
+      "stargazers": 6856,
       "starredAt": "2026-03-16T15:07:07Z",
       "summary": "Claude Code 技能，按修改、验证、取舍的循环自主迭代。",
       "tags": [
@@ -2232,7 +2232,7 @@
       "language": "Shell",
       "name": "mattpocock/skills",
       "needsReview": false,
-      "stargazers": 330118,
+      "stargazers": 331376,
       "starredAt": "2026-03-15T02:47:19Z",
       "summary": "面向工程师的 Agent 技能集，来自作者自己的 agents 目录。",
       "tags": [
@@ -2251,7 +2251,7 @@
       "language": "Shell",
       "name": "addyosmani/web-quality-skills",
       "needsReview": false,
-      "stargazers": 3117,
+      "stargazers": 3123,
       "starredAt": "2026-03-15T02:47:02Z",
       "summary": "按 Lighthouse 和 Core Web Vitals 优化网页质量的 Agent 技能。",
       "tags": [
@@ -2280,7 +2280,7 @@
       "language": "JavaScript",
       "name": "pasky/chrome-cdp-skill",
       "needsReview": false,
-      "stargazers": 3289,
+      "stargazers": 3291,
       "starredAt": "2026-03-15T02:37:22Z",
       "summary": "让 AI Agent 连接你已经打开的 Chrome 标签页。",
       "tags": [
@@ -2300,7 +2300,7 @@
       "language": "TypeScript",
       "name": "JimLiu/baoyu-skills",
       "needsReview": false,
-      "stargazers": 27790,
+      "stargazers": 27827,
       "starredAt": "2026-03-08T05:09:05Z",
       "summary": "供 Claude、Codex 等编程 Agent 使用的技能包。",
       "tags": [
@@ -2326,7 +2326,7 @@
       "language": "Shell",
       "name": "msitarzewski/agency-agents",
       "needsReview": true,
-      "stargazers": 169761,
+      "stargazers": 169940,
       "starredAt": "2026-03-05T15:07:53Z",
       "summary": "一组带人设、流程和交付标准的专业 Agent 角色定义。",
       "tags": [
@@ -2367,7 +2367,7 @@
       "language": "TypeScript",
       "name": "vercel-labs/skills",
       "needsReview": false,
-      "stargazers": 40419,
+      "stargazers": 40639,
       "starredAt": "2026-02-16T10:28:52Z",
       "summary": "用 npx skills 安装和管理 Agent 技能的命令行工具。",
       "tags": [
@@ -2427,7 +2427,7 @@
       "language": null,
       "name": "GBSOSS/skill-from-masters",
       "needsReview": false,
-      "stargazers": 1592,
+      "stargazers": 1593,
       "starredAt": "2026-02-03T16:26:52Z",
       "summary": "基于领域专家的成熟方法论来创建 AI 技能。",
       "tags": [
@@ -2447,7 +2447,7 @@
       "language": "Shell",
       "name": "obra/superpowers",
       "needsReview": false,
-      "stargazers": 323841,
+      "stargazers": 325049,
       "starredAt": "2026-02-01T16:04:16Z",
       "summary": "可落地的 Agent 技能框架与软件开发方法。",
       "tags": [
@@ -2540,7 +2540,7 @@
       "language": null,
       "name": "awesome-skills/first-principles-skill",
       "needsReview": false,
-      "stargazers": 155,
+      "stargazers": 156,
       "starredAt": "2026-01-21T13:16:29Z",
       "summary": "用第一性原理分析设计并质疑假设的 Claude Code 技能。",
       "tags": [
@@ -2580,7 +2580,7 @@
       "language": "HTML",
       "name": "awesome-skills/code-review-skill",
       "needsReview": false,
-      "stargazers": 2306,
+      "stargazers": 2309,
       "starredAt": "2026-01-21T13:15:09Z",
       "summary": "覆盖多种前端与系统技术栈的 Claude Code 代码审查技能。",
       "tags": [
@@ -2633,7 +2633,7 @@
       "language": "Python",
       "name": "anthropics/skills",
       "needsReview": false,
-      "stargazers": 198773,
+      "stargazers": 199471,
       "starredAt": "2026-01-16T02:47:29Z",
       "summary": "Anthropic 官方公开的 Agent 技能仓库。",
       "tags": [
@@ -2697,7 +2697,7 @@
       "language": "JavaScript",
       "name": "vercel-labs/agent-skills",
       "needsReview": false,
-      "stargazers": 34711,
+      "stargazers": 34810,
       "starredAt": "2026-01-15T02:23:45Z",
       "summary": "Vercel 官方整理的 Agent 技能合集。",
       "tags": [
@@ -2745,7 +2745,7 @@
       "language": "TypeScript",
       "name": "microsoft/playwright-mcp",
       "needsReview": false,
-      "stargazers": 39996,
+      "stargazers": 40065,
       "starredAt": "2025-09-28T15:33:53Z",
       "summary": "供编码 Agent 通过 MCP 调用 Playwright 控制浏览器的服务。",
       "tags": [
@@ -2806,7 +2806,7 @@
       "language": "TypeScript",
       "name": "regenrek/deepwiki-mcp",
       "needsReview": false,
-      "stargazers": 1393,
+      "stargazers": 1395,
       "starredAt": "2025-08-29T01:57:08Z",
       "summary": "让 Cursor 等编辑器通过 MCP 获取 DeepWiki 最新知识的服务。",
       "tags": [
@@ -2827,7 +2827,7 @@
       "language": null,
       "name": "vanzan01/cursor-memory-bank",
       "needsReview": false,
-      "stargazers": 3055,
+      "stargazers": 3054,
       "starredAt": "2025-08-25T11:41:35Z",
       "summary": "用 Cursor 自定义模式和文档保持记忆、分阶段引导开发的框架。",
       "tags": [
@@ -2848,7 +2848,7 @@
       "language": "TypeScript",
       "name": "intellectronica/ruler",
       "needsReview": false,
-      "stargazers": 2997,
+      "stargazers": 2999,
       "starredAt": "2025-08-25T11:25:02Z",
       "summary": "把同一套规则同步应用到多种编码 Agent 的工具。",
       "tags": [
@@ -2880,7 +2880,7 @@
       "language": "TypeScript",
       "name": "upstash/context7",
       "needsReview": false,
-      "stargazers": 65268,
+      "stargazers": 65349,
       "starredAt": "2025-07-21T14:55:03Z",
       "summary": "给编程 Agent 提供最新版本文档的 MCP 服务，避免按过时 API 写代码。",
       "tags": [
@@ -2906,7 +2906,7 @@
       "language": "Python",
       "name": "JuneYaooo/rea-video",
       "needsReview": false,
-      "stargazers": 12041,
+      "stargazers": 12668,
       "starredAt": "2026-11-20T01:19:18Z",
       "summary": "逐镜头逆向拆解实拍、AI 或代码视频，并说明如何复刻。",
       "tags": [
@@ -2946,7 +2946,7 @@
       "language": "TypeScript",
       "name": "nexu-io/openmotion",
       "needsReview": false,
-      "stargazers": 15000,
+      "stargazers": 15709,
       "starredAt": "2026-11-20T01:04:13Z",
       "summary": "把参考视频做成可编辑动效并导出短视频的开源智能视频工作室。",
       "tags": [
@@ -2989,7 +2989,7 @@
       "language": "Python",
       "name": "lemomo-ai/lemo-animi",
       "needsReview": false,
-      "stargazers": 193,
+      "stargazers": 207,
       "starredAt": "2026-11-18T14:49:28Z",
       "summary": "用 Codex 把一句话做成定格动画短片的智能体技能。",
       "tags": [
@@ -3051,7 +3051,7 @@
       "language": "TypeScript",
       "name": "alexgreensh/anidoodle",
       "needsReview": true,
-      "stargazers": 1941,
+      "stargazers": 1986,
       "starredAt": "2026-11-10T05:20:09Z",
       "summary": "用代码做插画、循环动效、发布片和配乐影片的创意编程技能。",
       "tags": [
@@ -3093,7 +3093,7 @@
       "language": "Python",
       "name": "threerocks/sweety-handdraw-video",
       "needsReview": false,
-      "stargazers": 1280,
+      "stargazers": 1285,
       "starredAt": "2026-11-09T16:33:15Z",
       "summary": "把主题或文章做成手绘讲解视频的制作工具。",
       "tags": [
@@ -3114,7 +3114,7 @@
       "language": "Python",
       "name": "lemomo-ai/lemo-wake",
       "needsReview": false,
-      "stargazers": 378,
+      "stargazers": 380,
       "starredAt": "2026-11-07T00:40:07Z",
       "summary": "把一张静图做成约五秒无缝循环动图的 Claude Code 插件。",
       "tags": [
@@ -3144,7 +3144,7 @@
       "language": "TypeScript",
       "name": "shinyobjectz/raea",
       "needsReview": true,
-      "stargazers": 3772,
+      "stargazers": 4696,
       "starredAt": "2026-11-06T10:48:55Z",
       "summary": "用 React 和 TypeScript 在本地 GPU 上渲染视频、动效、三维和游戏的引擎。",
       "tags": [
@@ -3201,7 +3201,7 @@
       "language": "Python",
       "name": "higgsfield-ai/skills",
       "needsReview": true,
-      "stargazers": 2043,
+      "stargazers": 2052,
       "starredAt": "2026-10-28T01:22:38Z",
       "summary": "Higgsfield 的 skills 仓库，暂无简介。",
       "tags": [
@@ -3251,7 +3251,7 @@
       "language": "JavaScript",
       "name": "tuzhechen2005/opus-video-skills",
       "needsReview": false,
-      "stargazers": 556,
+      "stargazers": 562,
       "starredAt": "2026-10-14T01:23:10Z",
       "summary": "在 Claude Code 里用代码做视频的技能，覆盖手绘和动效字幕。",
       "tags": [
@@ -3286,7 +3286,7 @@
       "language": "JavaScript",
       "name": "lemomo-ai/lemo-opuscar",
       "needsReview": false,
-      "stargazers": 19720,
+      "stargazers": 20303,
       "starredAt": "2026-10-12T09:47:38Z",
       "summary": "用代码做短片的风格工具箱，含 99 种现成风格。",
       "tags": [
@@ -3329,7 +3329,7 @@
       "language": "TypeScript",
       "name": "mcp-use/remotion-mcp-app",
       "needsReview": false,
-      "stargazers": 65,
+      "stargazers": 66,
       "starredAt": "2026-10-10T08:45:09Z",
       "summary": "用 MCP 制作 Remotion 动画，并提供实时预览与编辑。",
       "tags": [
@@ -3351,7 +3351,7 @@
       "language": "JavaScript",
       "name": "alchaincyf/huashu-art-motion",
       "needsReview": false,
-      "stargazers": 7446,
+      "stargazers": 7546,
       "starredAt": "2026-10-06T13:59:04Z",
       "summary": "用代码做艺术动画的技能，含多种风格和解说语法。",
       "tags": [
@@ -3385,7 +3385,7 @@
       "language": "TypeScript",
       "name": "Vincentwei1021/video-shotcraft",
       "needsReview": false,
-      "stargazers": 22051,
+      "stargazers": 22283,
       "starredAt": "2026-10-01T13:20:45Z",
       "summary": "给 Claude Code 和 Codex 的产品宣传片技能，含分镜配方、运镜预览和剪映导出。",
       "tags": [
@@ -3422,7 +3422,7 @@
       "language": null,
       "name": "yihui-dev/awesome-opus5-5-videos",
       "needsReview": false,
-      "stargazers": 16185,
+      "stargazers": 16305,
       "starredAt": "2026-09-27T15:50:37Z",
       "summary": "收集 Claude Opus 5.5 做出的爆款视频和对应提示词，并可对照在线重制。",
       "tags": [
@@ -3454,7 +3454,7 @@
       "language": "Python",
       "name": "feitangyuan/onetake",
       "needsReview": false,
-      "stargazers": 4321,
+      "stargazers": 4415,
       "starredAt": "2026-09-27T11:18:20Z",
       "summary": "用编程代理做一镜到底的产品发布片，镜头连续生长并校验连续性。",
       "tags": [
@@ -3483,7 +3483,7 @@
       "language": "Python",
       "name": "op7418/guizang-product-video-skill",
       "needsReview": false,
-      "stargazers": 967,
+      "stargazers": 968,
       "starredAt": "2026-09-25T17:30:46Z",
       "summary": "复用真实产品组件，用代码制作软件更新宣传片的技能，含分镜、配乐和渲染。",
       "tags": [
@@ -3516,7 +3516,7 @@
       "language": "TypeScript",
       "name": "iterative-computer/powermove",
       "needsReview": false,
-      "stargazers": 394,
+      "stargazers": 401,
       "starredAt": "2026-09-20T18:54:51Z",
       "summary": "会按对话就地改写自身的视频编辑器，改动可以撤销。",
       "tags": [
@@ -3535,7 +3535,7 @@
       "language": null,
       "name": "huangbai-AI/post-production-skill",
       "needsReview": false,
-      "stargazers": 272,
+      "stargazers": 273,
       "starredAt": "2026-09-19T14:22:01Z",
       "summary": "用于 AI 视频后期的技能，可生成电影级特效、转场、镜头和合成提示词。",
       "tags": [
@@ -3557,7 +3557,7 @@
       "language": "TypeScript",
       "name": "0xsline/OpenChatCut",
       "needsReview": false,
-      "stargazers": 3268,
+      "stargazers": 3289,
       "starredAt": "2026-09-19T02:32:41Z",
       "summary": "本地优先的对话式 AI 视频编辑器，带多轨时间线、技能接入和 Remotion 渲染。",
       "tags": [
@@ -3600,7 +3600,7 @@
       "language": "TypeScript",
       "name": "JimLiu/baocut",
       "needsReview": false,
-      "stargazers": 1798,
+      "stargazers": 1800,
       "starredAt": "2026-09-19T02:23:34Z",
       "summary": "带可编辑时间线的 AI 视频代理，能转写、字幕、翻译、配音和剪辑。",
       "tags": [
@@ -3629,7 +3629,7 @@
       "language": "TypeScript",
       "name": "hypit-ai/hypit",
       "needsReview": false,
-      "stargazers": 31047,
+      "stargazers": 31228,
       "starredAt": "2026-09-16T15:47:42Z",
       "summary": "用 AI 代理整条复刻爆款视频，可换脸、换词、换素材并批量出片。",
       "tags": [
@@ -3724,7 +3724,7 @@
       "language": "HTML",
       "name": "gnipbao/story-to-handdrawn-video",
       "needsReview": false,
-      "stargazers": 2523,
+      "stargazers": 2525,
       "starredAt": "2026-08-15T14:12:44Z",
       "summary": "把中文故事或图片做成手绘日记漫画动画的 Agent 技能。",
       "tags": [
@@ -3745,7 +3745,7 @@
       "language": "JavaScript",
       "name": "MartinDelophy/ai-video-editor",
       "needsReview": false,
-      "stargazers": 1002,
+      "stargazers": 1008,
       "starredAt": "2026-07-31T15:27:33Z",
       "summary": "创作者与 AI Agent 共用真实时间线的本地视频编辑器。",
       "tags": [
@@ -3787,7 +3787,7 @@
       "language": "TypeScript",
       "name": "Augani/openreel-video",
       "needsReview": false,
-      "stargazers": 6029,
+      "stargazers": 6403,
       "starredAt": "2026-07-28T07:15:20Z",
       "summary": "完全在浏览器中运行的开源视频编辑器，可作为 CapCut 的替代。",
       "tags": [
@@ -3808,7 +3808,7 @@
       "language": "TypeScript",
       "name": "OpenCut-app/OpenCut",
       "needsReview": false,
-      "stargazers": 99137,
+      "stargazers": 99249,
       "starredAt": "2026-07-18T12:33:49Z",
       "summary": "开源视频剪辑应用，定位为 CapCut 的替代品。",
       "tags": [
@@ -3833,7 +3833,7 @@
       "language": "Python",
       "name": "Agents365-ai/video-podcast-maker",
       "needsReview": false,
-      "stargazers": 1729,
+      "stargazers": 1732,
       "starredAt": "2026-06-03T05:49:33Z",
       "summary": "给编程 Agent 用的技能，把主题做成带旁白的 4K 视频。",
       "tags": [
@@ -3863,7 +3863,7 @@
       "language": "TypeScript",
       "name": "YouMind-OpenLab/awesome-seedance-2-prompts",
       "needsReview": false,
-      "stargazers": 2243,
+      "stargazers": 2251,
       "starredAt": "2026-05-17T03:30:21Z",
       "summary": "两千多条 Seedance 2.0 视频生成提示词的精选合集。",
       "tags": [
@@ -3890,12 +3890,12 @@
       "addedAt": "2026-04-18T03:21:12Z",
       "archived": false,
       "category": "AI 视频与动画",
-      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
       "id": "github:heygen-com/hyperframes",
       "language": "TypeScript",
       "name": "heygen-com/hyperframes",
       "needsReview": false,
-      "stargazers": 88046,
+      "stargazers": 88944,
       "starredAt": "2026-04-18T03:21:12Z",
       "summary": "开源 AI 视频编辑器，按描述生成可逐帧修改的视频项目。",
       "tags": [
@@ -3906,21 +3906,26 @@
         "AI"
       ],
       "topics": [
+        "agent-skills",
         "ai",
         "ai-agents",
+        "ai-video",
+        "ai-video-editor",
         "animation",
         "claude-code",
         "ffmpeg",
-        "framework",
         "gsap",
         "html",
         "html-to-video",
         "mcp",
         "motion-graphics",
         "puppeteer",
+        "remotion-alternative",
         "rendering",
         "typescript",
-        "video-editor"
+        "video-editing",
+        "video-editor",
+        "video-generation"
       ],
       "url": "https://github.com/heygen-com/hyperframes"
     },
@@ -3933,7 +3938,7 @@
       "language": "TypeScript",
       "name": "UllrAI/CineGen-ShortDrama",
       "needsReview": false,
-      "stargazers": 581,
+      "stargazers": 582,
       "starredAt": "2026-03-21T07:57:22Z",
       "summary": "开源 AI 漫剧与短剧生成系统，覆盖动漫、分镜和动态漫。",
       "tags": [
@@ -4000,7 +4005,7 @@
       "language": "Python",
       "name": "harry0703/MoneyPrinterTurbo",
       "needsReview": false,
-      "stargazers": 145054,
+      "stargazers": 145238,
       "starredAt": "2026-03-21T07:36:40Z",
       "summary": "按主题或关键词，用 AI 工作流自动生成高清短视频。",
       "tags": [
@@ -4066,7 +4071,7 @@
       "language": "TypeScript",
       "name": "waooAI/waoowaoo",
       "needsReview": false,
-      "stargazers": 14966,
+      "stargazers": 14973,
       "starredAt": "2026-03-02T05:59:17Z",
       "summary": "覆盖分镜到成片的工业级 AI 影视生产平台。",
       "tags": [
@@ -4096,7 +4101,7 @@
       "language": "Python",
       "name": "op7418/Youtube-clipper-skill",
       "needsReview": false,
-      "stargazers": 2374,
+      "stargazers": 2378,
       "starredAt": "2026-02-03T16:21:40Z",
       "summary": "用于剪辑 YouTube 视频片段的 Agent 技能。",
       "tags": [
@@ -4117,7 +4122,7 @@
       "language": "CSS",
       "name": "Nutlope/hallmark",
       "needsReview": false,
-      "stargazers": 59289,
+      "stargazers": 60074,
       "starredAt": "2026-11-21T01:31:05Z",
       "summary": "给 Claude Code、Cursor 和 Codex 用的反 AI 俗套设计技能。",
       "tags": [
@@ -4138,7 +4143,7 @@
       "language": "TypeScript",
       "name": "google-labs-code/stitch-skills",
       "needsReview": true,
-      "stargazers": 11731,
+      "stargazers": 12276,
       "starredAt": "2026-11-19T01:05:35Z",
       "summary": "配合 Stitch MCP 的智能体技能库，供编程智能体做界面设计。",
       "tags": [
@@ -4201,7 +4206,7 @@
       "language": "TypeScript",
       "name": "guanmo-ai/design-style",
       "needsReview": true,
-      "stargazers": 592,
+      "stargazers": 615,
       "starredAt": "2026-11-07T00:51:51Z",
       "summary": "按天发布设计风格、动效短片、风格图和可编辑源码的合集。",
       "tags": [
@@ -4244,7 +4249,7 @@
       "language": "JavaScript",
       "name": "heydamir/unslop",
       "needsReview": false,
-      "stargazers": 20001,
+      "stargazers": 20834,
       "starredAt": "2026-11-01T12:21:53Z",
       "summary": "把 AI 味界面改成有设计感界面的 Claude 技能。",
       "tags": [
@@ -4265,7 +4270,7 @@
       "language": "Python",
       "name": "chengyi-ai/native-subtitle-quote-image",
       "needsReview": true,
-      "stargazers": 2895,
+      "stargazers": 2896,
       "starredAt": "2026-11-01T12:21:12Z",
       "summary": "保留内嵌字幕并精确取帧，生成 3:4 社交长图的技能。",
       "tags": [
@@ -4293,7 +4298,7 @@
       "language": "HTML",
       "name": "yang0/handraw-style",
       "needsReview": false,
-      "stargazers": 7980,
+      "stargazers": 8029,
       "starredAt": "2026-10-31T17:02:24Z",
       "summary": "手绘风格画廊，附带中英双语提示词的技能。",
       "tags": [
@@ -4314,7 +4319,7 @@
       "language": "Python",
       "name": "elayadesign/ai-design-skills",
       "needsReview": false,
-      "stargazers": 16285,
+      "stargazers": 16489,
       "starredAt": "2026-10-25T17:11:35Z",
       "summary": "给 AI 使用的设计技能集合。",
       "tags": [
@@ -4334,7 +4339,7 @@
       "language": "HTML",
       "name": "kaankiziltug/logo-design-skill",
       "needsReview": false,
-      "stargazers": 7497,
+      "stargazers": 7580,
       "starredAt": "2026-10-07T10:22:54Z",
       "summary": "面向各编程 Agent 的 Logo 设计技能与参考库。",
       "tags": [
@@ -4364,7 +4369,7 @@
       "language": "TypeScript",
       "name": "open-pencil/open-pencil",
       "needsReview": false,
-      "stargazers": 10012,
+      "stargazers": 10064,
       "starredAt": "2026-07-24T04:56:01Z",
       "summary": "开源的 AI 原生设计编辑器，可作为 Figma 的替代品。",
       "tags": [
@@ -4396,7 +4401,7 @@
       "language": "Python",
       "name": "Evolink-AI/awesome-gpt-image-2-API-Prompts",
       "needsReview": false,
-      "stargazers": 17428,
+      "stargazers": 17431,
       "starredAt": "2026-04-28T17:34:31Z",
       "summary": "GPT-Image-2 的接口说明和图像生成提示词合集。",
       "tags": [
@@ -4438,7 +4443,7 @@
       "language": "TypeScript",
       "name": "YouMind-OpenLab/awesome-gpt-image-2",
       "needsReview": false,
-      "stargazers": 10323,
+      "stargazers": 10328,
       "starredAt": "2026-04-24T17:05:30Z",
       "summary": "每日更新的 GPT Image 2 提示词库，收录两千多条带预览的多语言提示词。",
       "tags": [
@@ -4477,7 +4482,7 @@
       "language": "JavaScript",
       "name": "joeseesun/qiaomu-design",
       "needsReview": false,
-      "stargazers": 693,
+      "stargazers": 694,
       "starredAt": "2026-04-09T15:47:53Z",
       "summary": "给 Claude Code 的设计顾问技能，覆盖去 AI 味界面和真实站点设计系统。",
       "tags": [
@@ -4505,7 +4510,7 @@
       "language": null,
       "name": "VoltAgent/awesome-design-md",
       "needsReview": false,
-      "stargazers": 128587,
+      "stargazers": 128777,
       "starredAt": "2026-04-06T06:52:25Z",
       "summary": "汇总知名品牌 DESIGN.md，让编程 Agent 按同一设计系统生成界面。",
       "tags": [
@@ -4536,7 +4541,7 @@
       "language": "TypeScript",
       "name": "Nutlope/logocreator",
       "needsReview": false,
-      "stargazers": 8992,
+      "stargazers": 8996,
       "starredAt": "2026-03-23T15:22:28Z",
       "summary": "用 Flux 模型免费生成 Logo 的开源应用。",
       "tags": [
@@ -4595,7 +4600,7 @@
       "language": "Rust",
       "name": "pbakaus/impeccable",
       "needsReview": false,
-      "stargazers": 114779,
+      "stargazers": 115627,
       "starredAt": "2026-03-11T16:27:27Z",
       "summary": "给编程 Agent 的设计词汇技能，用来打磨界面并发现 AI 味。",
       "tags": [
@@ -4641,7 +4646,7 @@
       "language": "Python",
       "name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "needsReview": false,
-      "stargazers": 152691,
+      "stargazers": 153273,
       "starredAt": "2026-01-07T09:45:59Z",
       "summary": "为多平台界面提供专业 UI/UX 设计判断的 AI 技能。",
       "tags": [
@@ -4717,7 +4722,7 @@
       "language": "GLSL",
       "name": "gl-transitions/gl-transitions",
       "needsReview": false,
-      "stargazers": 2267,
+      "stargazers": 2270,
       "starredAt": "2026-11-18T08:09:18Z",
       "summary": "用 GLSL 编写的开源 WebGL 转场效果集合。",
       "tags": [
@@ -4743,7 +4748,7 @@
       "language": "JavaScript",
       "name": "finktheartist/rubber-hose-ui",
       "needsReview": false,
-      "stargazers": 208,
+      "stargazers": 216,
       "starredAt": "2026-11-17T16:21:49Z",
       "summary": "把常见界面控件画成橡皮管卡通角色的无依赖前端组件。",
       "tags": [
@@ -4764,7 +4769,7 @@
       "language": "TypeScript",
       "name": "vercel-labs/ui",
       "needsReview": false,
-      "stargazers": 6508,
+      "stargazers": 6803,
       "starredAt": "2026-11-13T13:51:08Z",
       "summary": "供智能体构建下一代界面的无头行为与组件库。",
       "tags": [
@@ -4803,7 +4808,7 @@
       "language": "TypeScript",
       "name": "kevintngo/looseleaf",
       "needsReview": false,
-      "stargazers": 731,
+      "stargazers": 739,
       "starredAt": "2026-11-07T00:43:45Z",
       "summary": "手绘纸感、可访问的 React 组件库，兼容 shadcn 注册表。",
       "tags": [
@@ -4824,7 +4829,7 @@
       "language": "TypeScript",
       "name": "benjitaylor/agentation",
       "needsReview": true,
-      "stargazers": 5461,
+      "stargazers": 5470,
       "starredAt": "2026-09-23T16:46:57Z",
       "summary": "嵌在页面上的可视化反馈工具，把界面批注交给编程代理。",
       "tags": [
@@ -4850,7 +4855,7 @@
       "language": "JavaScript",
       "name": "mozilla/pdf.js",
       "needsReview": false,
-      "stargazers": 54172,
+      "stargazers": 54179,
       "starredAt": "2026-09-15T13:58:29Z",
       "summary": "用 JavaScript 在浏览器中解析和渲染 PDF 的阅读器库。",
       "tags": [
@@ -4870,7 +4875,7 @@
       "language": "JavaScript",
       "name": "quickdrawjs/quickdraw",
       "needsReview": false,
-      "stargazers": 624,
+      "stargazers": 627,
       "starredAt": "2026-08-07T09:37:39Z",
       "summary": "开源无限画布白板 SDK，支持 React、React Native 和原生 JS。",
       "tags": [
@@ -4911,7 +4916,7 @@
       "language": "TypeScript",
       "name": "guillermolg00/morphicons",
       "needsReview": false,
-      "stargazers": 3239,
+      "stargazers": 3241,
       "starredAt": "2026-08-06T02:59:55Z",
       "summary": "让描边图标以弹簧动画互相形变的轻量前端库。",
       "tags": [
@@ -4966,7 +4971,7 @@
       "language": "JavaScript",
       "name": "Paidax01/math-curve-loaders",
       "needsReview": false,
-      "stargazers": 2083,
+      "stargazers": 2084,
       "starredAt": "2026-04-14T16:01:11Z",
       "summary": "基于数学曲线的轻量加载动画集合，附公式和可复制代码。",
       "tags": [
@@ -5035,7 +5040,7 @@
       "language": "TypeScript",
       "name": "chenglou/pretext",
       "needsReview": false,
-      "stargazers": 51087,
+      "stargazers": 51094,
       "starredAt": "2026-03-30T05:54:18Z",
       "summary": "高速文本测量与排版库，处理断行、遮挡和虚拟化。",
       "tags": [
@@ -5066,7 +5071,7 @@
       "language": "TypeScript",
       "name": "r2hu1/shadcn-cookie-consent",
       "needsReview": false,
-      "stargazers": 292,
+      "stargazers": 293,
       "starredAt": "2026-03-27T18:23:39Z",
       "summary": "基于 shadcn/ui 和 Tailwind 的网页 Cookie 同意组件。",
       "tags": [
@@ -5239,7 +5244,7 @@
       "language": "TypeScript",
       "name": "iconify/iconify",
       "needsReview": false,
-      "stargazers": 6411,
+      "stargazers": 6412,
       "starredAt": "2026-02-05T01:53:41Z",
       "summary": "用统一语法接入大量开源图标集的图标框架，并提供前端组件。",
       "tags": [
@@ -5267,7 +5272,7 @@
       "language": "TypeScript",
       "name": "formkit/auto-animate",
       "needsReview": false,
-      "stargazers": 13977,
+      "stargazers": 13973,
       "starredAt": "2026-01-30T16:22:11Z",
       "summary": "为网页应用零配置添加平滑过渡动画的库。",
       "tags": [
@@ -5295,7 +5300,7 @@
       "language": "TypeScript",
       "name": "puckeditor/puck",
       "needsReview": false,
-      "stargazers": 13746,
+      "stargazers": 13748,
       "starredAt": "2026-01-17T15:01:27Z",
       "summary": "用拖拽搭建页面的 React 可视化编辑器。",
       "tags": [
@@ -5327,7 +5332,7 @@
       "language": "TypeScript",
       "name": "embedpdf/embed-pdf-viewer",
       "needsReview": false,
-      "stargazers": 4676,
+      "stargazers": 4681,
       "starredAt": "2026-01-09T01:20:27Z",
       "summary": "可嵌入任意 JavaScript 项目的 PDF 查看器。",
       "tags": [
@@ -5448,7 +5453,7 @@
       "language": "JavaScript",
       "name": "chokcoco/iCSS",
       "needsReview": false,
-      "stargazers": 20619,
+      "stargazers": 20616,
       "starredAt": "2025-12-23T15:55:09Z",
       "summary": "汇集 CSS 技巧与视觉效果示例的样式合集。",
       "tags": [
@@ -5471,7 +5476,7 @@
       "language": "TypeScript",
       "name": "vercel/swr",
       "needsReview": false,
-      "stargazers": 32497,
+      "stargazers": 32495,
       "starredAt": "2025-12-22T13:00:39Z",
       "summary": "用 React Hooks 做数据请求、缓存和重新验证。",
       "tags": [
@@ -5506,7 +5511,7 @@
       "language": "TypeScript",
       "name": "arhamkhnz/next-shadcn-admin-dashboard",
       "needsReview": false,
-      "stargazers": 3307,
+      "stargazers": 3312,
       "starredAt": "2025-12-14T14:59:52Z",
       "summary": "使用 Next.js 和 shadcn 搭建的管理后台模板。",
       "tags": [
@@ -5538,7 +5543,7 @@
       "language": "TypeScript",
       "name": "TanStack/table",
       "needsReview": false,
-      "stargazers": 28604,
+      "stargazers": 28607,
       "starredAt": "2025-12-09T16:21:35Z",
       "summary": "为 React、Vue 等框架提供表格和数据网格的无头组件库。",
       "tags": [
@@ -5579,7 +5584,7 @@
       "language": "TypeScript",
       "name": "justin-chu/react-fast-marquee",
       "needsReview": false,
-      "stargazers": 1515,
+      "stargazers": 1514,
       "starredAt": "2025-11-20T06:40:27Z",
       "summary": "用 CSS 动画实现流畅跑马灯的轻量 React 组件。",
       "tags": [
@@ -5608,7 +5613,7 @@
       "language": "JavaScript",
       "name": "catdad/canvas-confetti",
       "needsReview": false,
-      "stargazers": 12870,
+      "stargazers": 12873,
       "starredAt": "2025-11-17T09:14:04Z",
       "summary": "在浏览器里播放高性能纸屑动画的 JavaScript 库。",
       "tags": [
@@ -5661,7 +5666,7 @@
       "language": "TypeScript",
       "name": "vercel/ai-elements",
       "needsReview": false,
-      "stargazers": 2533,
+      "stargazers": 2536,
       "starredAt": "2025-11-10T02:30:07Z",
       "summary": "基于 shadcn/ui、用来更快搭建 AI 应用界面的组件库。",
       "tags": [
@@ -5687,7 +5692,7 @@
       "language": "Vue",
       "name": "vuepont/ai-elements-vue",
       "needsReview": false,
-      "stargazers": 1203,
+      "stargazers": 1205,
       "starredAt": "2025-11-04T13:30:25Z",
       "summary": "基于 shadcn-vue、用来更快搭建 AI 应用界面的组件库。",
       "tags": [
@@ -5716,7 +5721,7 @@
       "language": "TypeScript",
       "name": "shadcn-ui/registry-template",
       "needsReview": false,
-      "stargazers": 355,
+      "stargazers": 354,
       "starredAt": "2025-10-30T16:27:46Z",
       "summary": "用来运行自己的 shadcn 组件注册表的模板。",
       "tags": [
@@ -5790,7 +5795,7 @@
       "language": "CSS",
       "name": "nicejade/markdown-online-editor",
       "needsReview": false,
-      "stargazers": 3996,
+      "stargazers": 3997,
       "starredAt": "2025-09-30T14:27:29Z",
       "summary": "基于 Vue2 和 Vditor 的在线 Markdown 编辑器，支持图表和幻灯片预览。",
       "tags": [
@@ -5850,7 +5855,7 @@
       "language": "TypeScript",
       "name": "Jonghakseo/chrome-extension-boilerplate-react-vite",
       "needsReview": false,
-      "stargazers": 4892,
+      "stargazers": 4891,
       "starredAt": "2025-09-27T12:59:14Z",
       "summary": "使用 React、Vite 与 TypeScript 开发 Chrome 扩展的起始模板。",
       "tags": [
@@ -5872,7 +5877,7 @@
       "language": "TypeScript",
       "name": "mdx-editor/editor",
       "needsReview": false,
-      "stargazers": 3726,
+      "stargazers": 3725,
       "starredAt": "2025-09-19T01:39:39Z",
       "summary": "可嵌入页面的 React Markdown 富文本编辑器组件。",
       "tags": [
@@ -6006,7 +6011,7 @@
       "language": "TypeScript",
       "name": "vercel/streamdown",
       "needsReview": false,
-      "stargazers": 5781,
+      "stargazers": 5780,
       "starredAt": "2025-08-20T05:37:22Z",
       "summary": "可替换 react-markdown 的 React 库，专门渲染 AI 的流式 Markdown。",
       "tags": [
@@ -6032,7 +6037,7 @@
       "language": "JavaScript",
       "name": "zumerlab/snapdom",
       "needsReview": false,
-      "stargazers": 8252,
+      "stargazers": 8255,
       "starredAt": "2025-08-10T13:28:10Z",
       "summary": "高性能 DOM 捕获引擎，可把页面元素转换成图片、SVG 等格式。",
       "tags": [
@@ -6074,7 +6079,7 @@
       "language": "TypeScript",
       "name": "lingui/js-lingui",
       "needsReview": false,
-      "stargazers": 5938,
+      "stargazers": 5939,
       "starredAt": "2025-07-21T14:36:05Z",
       "summary": "面向 JavaScript 的轻量国际化库，支持 React、Vue 等框架。",
       "tags": [
@@ -6167,7 +6172,7 @@
       "language": "TypeScript",
       "name": "pdfslick/pdfslick",
       "needsReview": false,
-      "stargazers": 1090,
+      "stargazers": 1091,
       "starredAt": "2025-07-13T07:38:23Z",
       "summary": "可嵌入 React、Solid 和 Svelte 应用的 PDF 查看与交互库。",
       "tags": [
@@ -6303,7 +6308,7 @@
       "language": "JavaScript",
       "name": "DavidHDev/react-bits",
       "needsReview": false,
-      "stargazers": 52475,
+      "stargazers": 52570,
       "starredAt": "2025-01-20T05:50:25Z",
       "summary": "大量可定制的动画与交互 React 组件库。",
       "tags": [
@@ -6341,7 +6346,7 @@
       "language": "TypeScript",
       "name": "ant-design/x",
       "needsReview": false,
-      "stargazers": 4852,
+      "stargazers": 4854,
       "starredAt": "2024-11-24T13:26:51Z",
       "summary": "用于搭建 AI 对话与 Copilot 界面的 React 组件库。",
       "tags": [
@@ -6469,7 +6474,7 @@
       "language": "TypeScript",
       "name": "markmap/markmap",
       "needsReview": false,
-      "stargazers": 13282,
+      "stargazers": 13284,
       "starredAt": "2024-08-16T01:12:44Z",
       "summary": "用纯文本生成思维导图的 TypeScript 库。",
       "tags": [
@@ -6514,7 +6519,7 @@
       "language": "TypeScript",
       "name": "pmndrs/zustand",
       "needsReview": false,
-      "stargazers": 58977,
+      "stargazers": 58983,
       "starredAt": "2024-08-15T01:52:07Z",
       "summary": "React 的轻量状态管理库。",
       "tags": [
@@ -6578,7 +6583,7 @@
       "language": "TypeScript",
       "name": "bubkoo/html-to-image",
       "needsReview": false,
-      "stargazers": 7275,
+      "stargazers": 7274,
       "starredAt": "2024-08-14T08:28:52Z",
       "summary": "把 DOM 节点通过 canvas 和 SVG 导出成图片的库。",
       "tags": [
@@ -6628,7 +6633,7 @@
       "language": "JavaScript",
       "name": "mac-s-g/react-json-view",
       "needsReview": false,
-      "stargazers": 3658,
+      "stargazers": 3657,
       "starredAt": "2024-08-12T09:26:59Z",
       "summary": "在 React 中查看和浏览 JSON 数据的组件。",
       "tags": [
@@ -6655,7 +6660,7 @@
       "language": "TypeScript",
       "name": "t3-oss/create-t3-app",
       "needsReview": false,
-      "stargazers": 29248,
+      "stargazers": 29252,
       "starredAt": "2024-08-03T16:23:53Z",
       "summary": "用于创建类型安全 Next.js 全栈应用的脚手架。",
       "tags": [
@@ -6739,7 +6744,7 @@
       "language": "JavaScript",
       "name": "michalsnik/aos",
       "needsReview": false,
-      "stargazers": 28055,
+      "stargazers": 28054,
       "starredAt": "2024-02-02T07:27:24Z",
       "summary": "滚动进入可视区域时触发动画的前端库。",
       "tags": [
@@ -6871,7 +6876,7 @@
       "language": "TypeScript",
       "name": "steven-tey/novel",
       "needsReview": false,
-      "stargazers": 16465,
+      "stargazers": 16466,
       "starredAt": "2023-06-27T03:30:38Z",
       "summary": "带 AI 自动补全的 Notion 风格所见即所得编辑器。",
       "tags": [
@@ -6931,7 +6936,7 @@
       "language": "TypeScript",
       "name": "toeverything/blocksuite",
       "needsReview": false,
-      "stargazers": 6094,
+      "stargazers": 6096,
       "starredAt": "2023-06-06T11:16:24Z",
       "summary": "用来构建网页编辑器和协作应用的工具包。",
       "tags": [
@@ -7010,7 +7015,7 @@
       "language": "TypeScript",
       "name": "umijs/qiankun",
       "needsReview": false,
-      "stargazers": 16709,
+      "stargazers": 16710,
       "starredAt": "2021-04-26T15:32:39Z",
       "summary": "微前端运行时方案，用来把多个前端应用拼进同一页面。",
       "tags": [
@@ -7039,7 +7044,7 @@
       "language": "Vue",
       "name": "PanJiaChen/vue-element-admin",
       "needsReview": false,
-      "stargazers": 90092,
+      "stargazers": 90090,
       "starredAt": "2020-07-22T09:50:18Z",
       "summary": "基于 Vue 和 Element UI 的中后台管理系统模板。",
       "tags": [
@@ -7101,7 +7106,7 @@
       "language": "TypeScript",
       "name": "google/three-live",
       "needsReview": false,
-      "stargazers": 477,
+      "stargazers": 495,
       "starredAt": "2026-11-16T03:16:59Z",
       "summary": "面向安卓、苹果和网页的原生三维与 CAD 运行时及即时编译器。",
       "tags": [
@@ -7133,7 +7138,7 @@
       "language": "Rust",
       "name": "expo/exact",
       "needsReview": false,
-      "stargazers": 4899,
+      "stargazers": 4971,
       "starredAt": "2026-11-13T16:54:20Z",
       "summary": "一次编写即可在网页、macOS、iOS 和 Linux 上原生运行的应用框架。",
       "tags": [
@@ -7168,7 +7173,7 @@
       "language": "Haxe",
       "name": "deepnight/ldtk",
       "needsReview": false,
-      "stargazers": 5005,
+      "stargazers": 5011,
       "starredAt": "2026-11-11T00:52:52Z",
       "summary": "轻量高效的二维游戏关卡编辑器。",
       "tags": [
@@ -7196,7 +7201,7 @@
       "language": "Rust",
       "name": "loro-dev/loro",
       "needsReview": false,
-      "stargazers": 6312,
+      "stargazers": 6317,
       "starredAt": "2026-10-08T09:56:36Z",
       "summary": "用 CRDT 让 JSON 数据支持协作编辑和版本管理。",
       "tags": [
@@ -7246,7 +7251,7 @@
       "language": "TypeScript",
       "name": "wxt-dev/wxt",
       "needsReview": false,
-      "stargazers": 10761,
+      "stargazers": 10768,
       "starredAt": "2026-09-15T12:24:05Z",
       "summary": "开发浏览器扩展的框架，自带开发服务器和热更新。",
       "tags": [
@@ -7273,7 +7278,7 @@
       "language": "JavaScript",
       "name": "yjs/yjs",
       "needsReview": false,
-      "stargazers": 23096,
+      "stargazers": 23106,
       "starredAt": "2026-09-14T09:46:32Z",
       "summary": "基于 CRDT 的共享数据类型库，用来构建可离线的实时协同软件。",
       "tags": [
@@ -7305,7 +7310,7 @@
       "language": "Rust",
       "name": "zvec-ai/zvec-grep",
       "needsReview": true,
-      "stargazers": 4369,
+      "stargazers": 4373,
       "starredAt": "2026-09-04T01:19:56Z",
       "summary": "给人和 AI 代理用的本地工作区搜索，支持全文与向量检索。",
       "tags": [
@@ -7338,7 +7343,7 @@
       "language": "TypeScript",
       "name": "vercel-labs/vgpu",
       "needsReview": true,
-      "stargazers": 2689,
+      "stargazers": 2715,
       "starredAt": "2026-09-03T08:39:41Z",
       "summary": "跨运行时的 WebGPU 库，覆盖着色器、三维场景、张量和数学可视化。",
       "tags": [
@@ -7360,7 +7365,7 @@
       "language": "Rust",
       "name": "firecrawl/anydoc",
       "needsReview": false,
-      "stargazers": 23655,
+      "stargazers": 23677,
       "starredAt": "2026-08-22T03:33:27Z",
       "summary": "把 Word、PPT、Excel、PDF 等文档转成 Markdown 的 Rust 库。",
       "tags": [
@@ -7381,7 +7386,7 @@
       "language": "TypeScript",
       "name": "rrweb-io/rrweb",
       "needsReview": false,
-      "stargazers": 20409,
+      "stargazers": 20486,
       "starredAt": "2026-08-06T08:35:17Z",
       "summary": "用于录制并回放网页操作的会话回放库。",
       "tags": [
@@ -7407,7 +7412,7 @@
       "language": "Go",
       "name": "alibaba/open-code-review",
       "needsReview": false,
-      "stargazers": 55271,
+      "stargazers": 55685,
       "starredAt": "2026-07-28T08:17:48Z",
       "summary": "用确定性检查加 LLM 做行级评论的代码审查工具。",
       "tags": [
@@ -7467,7 +7472,7 @@
       "language": "TypeScript",
       "name": "antfu-collective/taze",
       "needsReview": false,
-      "stargazers": 4296,
+      "stargazers": 4297,
       "starredAt": "2026-06-01T03:00:19Z",
       "summary": "用来检查并更新项目依赖的命令行工具。",
       "tags": [
@@ -7514,7 +7519,7 @@
       "language": "Rust",
       "name": "ajeetdsouza/zoxide",
       "needsReview": false,
-      "stargazers": 40696,
+      "stargazers": 40713,
       "starredAt": "2026-04-22T02:55:12Z",
       "summary": "支持多种 Shell 的智能目录跳转命令，用来更快地切换路径。",
       "tags": [
@@ -7556,7 +7561,7 @@
       "language": "Rust",
       "name": "tauri-apps/tauri",
       "needsReview": false,
-      "stargazers": 113112,
+      "stargazers": 113092,
       "starredAt": "2026-04-18T14:48:14Z",
       "summary": "用 Web 前端构建更小、更快、更安全的桌面和移动应用框架。",
       "tags": [
@@ -7588,7 +7593,7 @@
       "language": "Rust",
       "name": "starship/starship",
       "needsReview": false,
-      "stargazers": 60849,
+      "stargazers": 60872,
       "starredAt": "2026-04-15T02:07:58Z",
       "summary": "适用于多种 Shell 的轻量、快速、可高度定制的命令行提示符。",
       "tags": [
@@ -7622,7 +7627,7 @@
       "language": "Go",
       "name": "larksuite/cli",
       "needsReview": false,
-      "stargazers": 18182,
+      "stargazers": 18198,
       "starredAt": "2026-03-28T15:02:01Z",
       "summary": "飞书官方命令行工具，覆盖消息、文档、表格等，并附带一批 Agent Skill。",
       "tags": [
@@ -7643,7 +7648,7 @@
       "language": "Rust",
       "name": "wezterm/wezterm",
       "needsReview": false,
-      "stargazers": 29653,
+      "stargazers": 29668,
       "starredAt": "2026-03-18T02:29:42Z",
       "summary": "用 Rust 编写的 GPU 加速跨平台终端模拟器。",
       "tags": [
@@ -7670,7 +7675,7 @@
       "language": "Zig",
       "name": "ghostty-org/ghostty",
       "needsReview": false,
-      "stargazers": 64338,
+      "stargazers": 64379,
       "starredAt": "2026-03-18T02:09:29Z",
       "summary": "采用原生界面和 GPU 加速的跨平台终端模拟器。",
       "tags": [
@@ -7715,7 +7720,7 @@
       "language": "TypeScript",
       "name": "rahuldkjain/github-profile-readme-generator",
       "needsReview": false,
-      "stargazers": 24490,
+      "stargazers": 24488,
       "starredAt": "2026-02-17T10:43:37Z",
       "summary": "用简洁网页生成带统计组件的 GitHub 个人主页 README。",
       "tags": [
@@ -7744,7 +7749,7 @@
       "language": "JavaScript",
       "name": "anuraghazra/github-readme-stats",
       "needsReview": false,
-      "stargazers": 79840,
+      "stargazers": 79830,
       "starredAt": "2026-02-17T10:23:44Z",
       "summary": "为 GitHub README 动态生成统计图的服务。",
       "tags": [
@@ -7771,7 +7776,7 @@
       "language": "TypeScript",
       "name": "middleapi/orpc",
       "needsReview": false,
-      "stargazers": 5780,
+      "stargazers": 5784,
       "starredAt": "2026-02-09T12:58:22Z",
       "summary": "用 TypeScript 编写端到端类型安全 API 的 RPC 库。",
       "tags": [
@@ -7811,7 +7816,7 @@
       "language": "C++",
       "name": "electron/electron",
       "needsReview": false,
-      "stargazers": 124047,
+      "stargazers": 124060,
       "starredAt": "2026-02-08T14:21:13Z",
       "summary": "用 JavaScript、HTML 和 CSS 构建跨平台桌面应用的框架。",
       "tags": [
@@ -7841,7 +7846,7 @@
       "language": "TypeScript",
       "name": "supabase/supabase",
       "needsReview": false,
-      "stargazers": 115317,
+      "stargazers": 115311,
       "starredAt": "2026-02-05T14:52:19Z",
       "summary": "提供 Postgres 数据库、认证和实时能力的后端开发平台。",
       "tags": [
@@ -7882,7 +7887,7 @@
       "language": "TypeScript",
       "name": "zh-lx/code-inspector",
       "needsReview": false,
-      "stargazers": 3053,
+      "stargazers": 3052,
       "starredAt": "2026-02-02T10:23:15Z",
       "summary": "点击页面元素即可在 IDE 中定位对应源码。",
       "tags": [
@@ -8060,7 +8065,7 @@
       "language": "TypeScript",
       "name": "better-auth/better-auth",
       "needsReview": false,
-      "stargazers": 30825,
+      "stargazers": 30849,
       "starredAt": "2025-12-17T01:21:07Z",
       "summary": "支持多种登录协议的 TypeScript 认证框架。",
       "tags": [
@@ -8090,7 +8095,7 @@
       "language": "JavaScript",
       "name": "jsdom/jsdom",
       "needsReview": false,
-      "stargazers": 21762,
+      "stargazers": 21766,
       "starredAt": "2025-12-04T15:32:33Z",
       "summary": "在 Node.js 里实现浏览器 DOM 等 Web 标准的库。",
       "tags": [
@@ -8141,7 +8146,7 @@
       "language": "TypeScript",
       "name": "toss/es-toolkit",
       "needsReview": false,
-      "stargazers": 11398,
+      "stargazers": 11399,
       "starredAt": "2025-10-31T12:16:26Z",
       "summary": "比 lodash 更快、体积更小的现代 JavaScript 工具库。",
       "tags": [
@@ -8161,7 +8166,7 @@
       "language": "TypeScript",
       "name": "openreplay/openreplay",
       "needsReview": false,
-      "stargazers": 13169,
+      "stargazers": 13176,
       "starredAt": "2025-10-31T09:12:13Z",
       "summary": "可自托管的会话回放、协同浏览和产品分析平台。",
       "tags": [
@@ -8290,7 +8295,7 @@
       "language": "Rust",
       "name": "rolldown/rolldown",
       "needsReview": false,
-      "stargazers": 14041,
+      "stargazers": 14051,
       "starredAt": "2025-09-29T13:14:55Z",
       "summary": "用 Rust 编写、API 兼容 Rollup 的 JavaScript 与 TypeScript 快速打包器。",
       "tags": [
@@ -8316,7 +8321,7 @@
       "language": "Rust",
       "name": "volta-cli/volta",
       "needsReview": false,
-      "stargazers": 13053,
+      "stargazers": 13054,
       "starredAt": "2025-09-28T15:15:02Z",
       "summary": "以代码方式管理 Node.js 等 JavaScript 工具链版本的命令行工具。",
       "tags": [
@@ -8371,7 +8376,7 @@
       "language": "TypeScript",
       "name": "mattpocock/ts-reset",
       "needsReview": false,
-      "stargazers": 8650,
+      "stargazers": 8652,
       "starredAt": "2025-03-21T02:29:41Z",
       "summary": "改善常见 JavaScript API 类型定义的 TypeScript 重置库。",
       "tags": [
@@ -8435,7 +8440,7 @@
       "language": "TypeScript",
       "name": "sindresorhus/type-fest",
       "needsReview": false,
-      "stargazers": 17551,
+      "stargazers": 17553,
       "starredAt": "2025-02-20T01:32:27Z",
       "summary": "汇集常用 TypeScript 类型定义的工具类型库。",
       "tags": [
@@ -8482,7 +8487,7 @@
       "language": "TypeScript",
       "name": "DoneDeal0/superdiff",
       "needsReview": false,
-      "stargazers": 1139,
+      "stargazers": 1141,
       "starredAt": "2025-02-10T03:33:29Z",
       "summary": "为数组、对象、代码和文本提供可读差异对比的 TypeScript 库。",
       "tags": [
@@ -8590,7 +8595,7 @@
       "language": "TypeScript",
       "name": "HuolalaTech/page-spy-web",
       "needsReview": false,
-      "stargazers": 5638,
+      "stargazers": 5637,
       "starredAt": "2024-10-16T01:18:00Z",
       "summary": "开箱即用的轻量跨平台远程调试平台。",
       "tags": [
@@ -8636,7 +8641,7 @@
       "language": "TypeScript",
       "name": "scopsy/await-to-js",
       "needsReview": false,
-      "stargazers": 3355,
+      "stargazers": 3354,
       "starredAt": "2024-08-17T03:41:49Z",
       "summary": "用返回值处理异步错误、省去 try-catch 的包装库。",
       "tags": [
@@ -8688,7 +8693,7 @@
       "language": "TypeScript",
       "name": "lisonge/vite-plugin-monkey",
       "needsReview": false,
-      "stargazers": 2071,
+      "stargazers": 2070,
       "starredAt": "2024-08-12T01:38:33Z",
       "summary": "用 Vite 开发和打包油猴脚本的插件。",
       "tags": [
@@ -8718,7 +8723,7 @@
       "language": "JavaScript",
       "name": "krisk/Fuse",
       "needsReview": false,
-      "stargazers": 20536,
+      "stargazers": 20538,
       "starredAt": "2024-03-07T01:42:07Z",
       "summary": "JavaScript 轻量模糊搜索库。",
       "tags": [
@@ -8743,7 +8748,7 @@
       "language": "Shell",
       "name": "ohmyzsh/ohmyzsh",
       "needsReview": false,
-      "stargazers": 190815,
+      "stargazers": 190784,
       "starredAt": "2023-07-09T14:50:27Z",
       "summary": "管理 zsh 配置、插件和主题的社区框架。",
       "tags": [
@@ -8793,6 +8798,22 @@
       "url": "https://github.com/bgwd666/bgwd-deploy"
     },
     {
+      "addedAt": "2026-11-24T00:17:15.089Z",
+      "author": "don_tech1",
+      "category": "AI 应用与平台",
+      "needsReview": false,
+      "postedAt": "2026-11-22T22:26:09.000Z",
+      "summary": "Google 开源的零依赖 Go 命令行，供 AI Agent 调用 Gemini 多模态接口。",
+      "tags": [
+        "工具",
+        "Gemini",
+        "CLI",
+        "API",
+        "多模态"
+      ],
+      "url": "https://x.com/don_tech1/status/2124630542738202805"
+    },
+    {
       "addedAt": "2026-11-22T04:23:07.312Z",
       "author": "ZeroZ_JQ",
       "category": "AI 应用与平台",
@@ -8815,7 +8836,7 @@
       "language": "Rust",
       "name": "vercel-labs/agent-desktop",
       "needsReview": false,
-      "stargazers": 26074,
+      "stargazers": 26346,
       "starredAt": "2026-11-01T12:11:33Z",
       "summary": "供 AI Agent 使用的电脑桌面操作命令行工具。",
       "tags": [
@@ -8850,7 +8871,7 @@
       "language": "TypeScript",
       "name": "deepseek-ai/dsh-superagent-prototype",
       "needsReview": true,
-      "stargazers": 24204,
+      "stargazers": 24358,
       "starredAt": "2026-10-31T13:50:08Z",
       "summary": "探索更自主 Agent 系统的 DeepSeek 原型。",
       "tags": [
@@ -8871,7 +8892,7 @@
       "language": "TypeScript",
       "name": "openai/mcp-extensions",
       "needsReview": false,
-      "stargazers": 1200,
+      "stargazers": 1201,
       "starredAt": "2026-10-19T08:02:31Z",
       "summary": "让插件成为 ChatGPT 原生功能的扩展开发库。",
       "tags": [
@@ -8893,7 +8914,7 @@
       "language": "TypeScript",
       "name": "CoolkHz/gptibo",
       "needsReview": true,
-      "stargazers": 888,
+      "stargazers": 889,
       "starredAt": "2026-10-14T01:29:36Z",
       "summary": "可自托管的 GPTibo 商店、管理端和 Go 后端。",
       "tags": [
@@ -8914,7 +8935,7 @@
       "language": "TypeScript",
       "name": "modelcontextprotocol/ext-apps",
       "needsReview": false,
-      "stargazers": 3135,
+      "stargazers": 3143,
       "starredAt": "2026-10-08T12:47:47Z",
       "summary": "在 AI 聊天中嵌入界面的 MCP Apps 协议与 SDK。",
       "tags": [
@@ -8943,7 +8964,7 @@
       "language": "TypeScript",
       "name": "vercel/ai",
       "needsReview": false,
-      "stargazers": 28123,
+      "stargazers": 28151,
       "starredAt": "2026-09-18T01:28:18Z",
       "summary": "Vercel 的 TypeScript AI SDK，用来构建生成式应用和代理。",
       "tags": [
@@ -8980,7 +9001,7 @@
       "language": "TypeScript",
       "name": "firecrawl/firecrawl",
       "needsReview": false,
-      "stargazers": 206615,
+      "stargazers": 207908,
       "starredAt": "2026-08-22T03:30:27Z",
       "summary": "给 Agent 用的网页搜索、抓取与多数据源聚合接口。",
       "tags": [
@@ -9022,7 +9043,7 @@
       "language": "TypeScript",
       "name": "basketikun/infinite-canvas",
       "needsReview": true,
-      "stargazers": 10560,
+      "stargazers": 10602,
       "starredAt": "2026-08-14T05:39:03Z",
       "summary": "集生图、视频、提示词和多 Agent 于一体的无限画布创作台。",
       "tags": [
@@ -9044,7 +9065,7 @@
       "language": "TypeScript",
       "name": "cloudflare/cloudflare-os",
       "needsReview": false,
-      "stargazers": 11850,
+      "stargazers": 11856,
       "starredAt": "2026-08-07T14:39:18Z",
       "summary": "在 Cloudflare Workers 上写文档、做应用并运行 Agent 的工作台。",
       "tags": [
@@ -9065,7 +9086,7 @@
       "language": "TypeScript",
       "name": "TencentCloud/TencentDB-Agent-Memory",
       "needsReview": false,
-      "stargazers": 31095,
+      "stargazers": 31119,
       "starredAt": "2026-08-06T01:49:26Z",
       "summary": "把对话、文档和代码变成可共享记忆的团队级 Agent 记忆服务。",
       "tags": [
@@ -9135,7 +9156,7 @@
       "language": "JavaScript",
       "name": "citrolabs/ego-lite",
       "needsReview": true,
-      "stargazers": 24007,
+      "stargazers": 24177,
       "starredAt": "2026-08-01T15:11:54Z",
       "summary": "给 Codex、Claude Code 等 Agent 做浏览器自动化的轻量浏览器。",
       "tags": [
@@ -9191,7 +9212,7 @@
       "language": "TypeScript",
       "name": "a9gent/mindfs",
       "needsReview": true,
-      "stargazers": 1890,
+      "stargazers": 1887,
       "starredAt": "2026-05-12T12:19:25Z",
       "summary": "让人随时访问个人 AI Agent 和工作站数据的文件系统。",
       "tags": [
@@ -9247,7 +9268,7 @@
       "language": "TypeScript",
       "name": "vercel-labs/open-agents",
       "needsReview": false,
-      "stargazers": 5912,
+      "stargazers": 5916,
       "starredAt": "2026-04-14T15:27:18Z",
       "summary": "用来构建云端 Agent 的开源模板。",
       "tags": [
@@ -9273,7 +9294,7 @@
       "language": "Python",
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "needsReview": false,
-      "stargazers": 12038,
+      "stargazers": 12043,
       "starredAt": "2026-04-13T15:31:31Z",
       "summary": "用自然语言生成可投产的 SVG 和 PNG 技术图，支持 UML 与多种风格。",
       "tags": [
@@ -9302,7 +9323,7 @@
       "language": "Python",
       "name": "camel-ai/owl",
       "needsReview": false,
-      "stargazers": 20193,
+      "stargazers": 20195,
       "starredAt": "2026-04-09T15:56:50Z",
       "summary": "面向真实世界任务自动化的通用多智能体协作框架。",
       "tags": [
@@ -9329,7 +9350,7 @@
       "language": "Python",
       "name": "HKUDS/AgentPilot",
       "needsReview": true,
-      "stargazers": 8126,
+      "stargazers": 8132,
       "starredAt": "2026-03-26T01:05:51Z",
       "summary": "声称能让 Agent 跑得更好更快的 Python 项目，简介没有具体做法。",
       "tags": [
@@ -9349,7 +9370,7 @@
       "language": "Python",
       "name": "bytedance/deer-flow",
       "needsReview": true,
-      "stargazers": 85600,
+      "stargazers": 85701,
       "starredAt": "2026-03-25T16:25:21Z",
       "summary": "长程超级 Agent 框架，能做研究、写代码，并调度沙箱和子 Agent。",
       "tags": [
@@ -9410,7 +9431,7 @@
       "language": "TypeScript",
       "name": "nanocoai/nanoclaw",
       "needsReview": true,
-      "stargazers": 31139,
+      "stargazers": 31150,
       "starredAt": "2026-03-13T02:49:38Z",
       "summary": "自托管常驻 AI 助手，在容器中运行编程 Agent，并通过聊天软件对话。",
       "tags": [
@@ -9441,7 +9462,7 @@
       "language": "TypeScript",
       "name": "alibaba/page-agent",
       "needsReview": false,
-      "stargazers": 29734,
+      "stargazers": 29742,
       "starredAt": "2026-03-13T02:20:58Z",
       "summary": "嵌入网页的 JavaScript GUI Agent，用自然语言操作页面。",
       "tags": [
@@ -9470,7 +9491,7 @@
       "language": "C#",
       "name": "AIDotNet/OpenDeepWiki",
       "needsReview": false,
-      "stargazers": 3671,
+      "stargazers": 3672,
       "starredAt": "2026-03-11T16:12:36Z",
       "summary": "开源 DeepWiki，提供 AI 知识管理与协作文档平台。",
       "tags": [
@@ -9495,7 +9516,7 @@
       "language": "TypeScript",
       "name": "abhigyanpatwari/GitNexus",
       "needsReview": true,
-      "stargazers": 48728,
+      "stargazers": 48759,
       "starredAt": "2026-03-08T10:00:02Z",
       "summary": "无需服务器、在本地运行的代码智能引擎。",
       "tags": [
@@ -9535,7 +9556,7 @@
       "language": "TypeScript",
       "name": "netease-youdao/LobsterAI",
       "needsReview": false,
-      "stargazers": 6209,
+      "stargazers": 6212,
       "starredAt": "2026-02-19T13:43:02Z",
       "summary": "能处理数据、文档、幻灯片、视频和检索，并可从手机下指令的桌面 AI 助手。",
       "tags": [
@@ -9574,7 +9595,7 @@
       "language": "TypeScript",
       "name": "vercel-labs/json-render",
       "needsReview": true,
-      "stargazers": 19804,
+      "stargazers": 19813,
       "starredAt": "2026-01-23T06:06:50Z",
       "summary": "把模型生成的 JSON 界面描述渲染成可交互 UI 的框架。",
       "tags": [
@@ -9594,7 +9615,7 @@
       "language": "Rust",
       "name": "vercel-labs/agent-browser",
       "needsReview": false,
-      "stargazers": 53324,
+      "stargazers": 53616,
       "starredAt": "2026-01-14T01:27:16Z",
       "summary": "供 AI Agent 控制浏览器完成自动化操作的命令行工具。",
       "tags": [
@@ -9615,7 +9636,7 @@
       "language": "Python",
       "name": "Anionex/banana-slides",
       "needsReview": false,
-      "stargazers": 16057,
+      "stargazers": 16074,
       "starredAt": "2025-12-18T07:54:54Z",
       "summary": "根据一句话、大纲或模板图生成可编辑幻灯片的 AI 应用。",
       "tags": [
@@ -9647,7 +9668,7 @@
       "language": "TypeScript",
       "name": "DayuanJiang/next-ai-draw-io",
       "needsReview": true,
-      "stargazers": 37118,
+      "stargazers": 37143,
       "starredAt": "2025-12-09T01:21:11Z",
       "summary": "通过和 AI 对话来绘制、编辑 draw.io 图表的应用。",
       "tags": [
@@ -9686,7 +9707,7 @@
       "language": "Python",
       "name": "BerriAI/litellm",
       "needsReview": false,
-      "stargazers": 63692,
+      "stargazers": 63778,
       "starredAt": "2025-12-07T05:18:59Z",
       "summary": "用统一接口调用多家大模型，并带计费与流量调度的 AI 网关。",
       "tags": [
@@ -9724,7 +9745,7 @@
       "language": "TypeScript",
       "name": "vercel/workflow",
       "needsReview": false,
-      "stargazers": 2526,
+      "stargazers": 2533,
       "starredAt": "2025-10-30T11:31:16Z",
       "summary": "用 TypeScript 构建持久、可观测应用和 AI Agent 的工作流 SDK。",
       "tags": [
@@ -9753,7 +9774,7 @@
       "language": "TypeScript",
       "name": "mastra-ai/mastra",
       "needsReview": false,
-      "stargazers": 29731,
+      "stargazers": 29769,
       "starredAt": "2025-10-24T09:15:30Z",
       "summary": "用来构建 AI 应用和 Agent 的 TypeScript 框架。",
       "tags": [
@@ -9788,7 +9809,7 @@
       "language": "TypeScript",
       "name": "ag-ui-protocol/ag-ui",
       "needsReview": false,
-      "stargazers": 21107,
+      "stargazers": 21377,
       "starredAt": "2025-10-21T13:05:56Z",
       "summary": "把 AI Agent 接进前端应用的人机交互协议。",
       "tags": [
@@ -9815,7 +9836,7 @@
       "language": "TypeScript",
       "name": "agno-agi/agent-ui",
       "needsReview": false,
-      "stargazers": 1880,
+      "stargazers": 1881,
       "starredAt": "2025-09-27T10:13:46Z",
       "summary": "基于 Next.js、可自托管的 AI Agent 聊天界面。",
       "tags": [
@@ -9842,7 +9863,7 @@
       "language": "TypeScript",
       "name": "CopilotKit/CopilotKit",
       "needsReview": false,
-      "stargazers": 38875,
+      "stargazers": 38915,
       "starredAt": "2025-09-26T01:58:19Z",
       "summary": "把 Agent 和生成式界面嵌入 React 等前端的开发库。",
       "tags": [
@@ -9885,7 +9906,7 @@
       "language": "TypeScript",
       "name": "vercel/chatbot",
       "needsReview": false,
-      "stargazers": 21065,
+      "stargazers": 21068,
       "starredAt": "2025-09-05T05:41:13Z",
       "summary": "Vercel 出品、基于 Next.js 可改造的全功能 AI 聊天机器人模板。",
       "tags": [
@@ -9914,7 +9935,7 @@
       "language": "TypeScript",
       "name": "web-infra-dev/midscene",
       "needsReview": false,
-      "stargazers": 15698,
+      "stargazers": 15724,
       "starredAt": "2025-08-24T12:01:48Z",
       "summary": "用自然语言做端到端测试的 GUI Agent，能像人一样操作网页和手机界面。",
       "tags": [
@@ -9945,7 +9966,7 @@
       "language": "Python",
       "name": "sansan0/TrendRadar",
       "needsReview": false,
-      "stargazers": 63794,
+      "stargazers": 63832,
       "starredAt": "2025-08-10T13:17:00Z",
       "summary": "聚合多平台热点和 RSS 的 AI 舆情监控应用，可筛选新闻、生成简报并推送到常用渠道。",
       "tags": [
@@ -9986,7 +10007,7 @@
       "language": "Python",
       "name": "microsoft/autogen",
       "needsReview": false,
-      "stargazers": 61961,
+      "stargazers": 61964,
       "starredAt": "2025-07-16T14:37:51Z",
       "summary": "微软开源的智能体开发框架，用来构建可互相协作的 AI Agent。",
       "tags": [
@@ -10018,7 +10039,7 @@
       "language": "Go",
       "name": "infiniflow/ragflow",
       "needsReview": false,
-      "stargazers": 94532,
+      "stargazers": 94600,
       "starredAt": "2025-01-15T01:25:54Z",
       "summary": "面向智能体的检索增强生成引擎与上下文基础设施。",
       "tags": [
@@ -10077,7 +10098,7 @@
       "language": "Python",
       "name": "ace-step/ACE-Step-1.5",
       "needsReview": false,
-      "stargazers": 15069,
+      "stargazers": 15111,
       "starredAt": "2026-10-25T14:52:02Z",
       "summary": "可在 Mac 和多种显卡上本地运行的音乐生成模型。",
       "tags": [
@@ -10099,7 +10120,7 @@
       "language": "Jupyter Notebook",
       "name": "facebookresearch/segment-anything",
       "needsReview": false,
-      "stargazers": 55170,
+      "stargazers": 55171,
       "starredAt": "2026-01-24T03:01:56Z",
       "summary": "提供推理代码与权重的 Segment Anything 图像分割模型。",
       "tags": [
@@ -10119,7 +10140,7 @@
       "language": "TypeScript",
       "name": "anomalyco/models.dev",
       "needsReview": false,
-      "stargazers": 7718,
+      "stargazers": 7736,
       "starredAt": "2025-11-09T02:52:51Z",
       "summary": "汇总各类 AI 模型信息的开源数据库。",
       "tags": [
@@ -10139,7 +10160,7 @@
       "language": "Kotlin",
       "name": "pppscn/SmsForwarder",
       "needsReview": false,
-      "stargazers": 28981,
+      "stargazers": 29001,
       "starredAt": "2026-10-02T14:30:45Z",
       "summary": "把安卓短信、来电和通知按规则转发到其他渠道的应用。",
       "tags": [
@@ -10200,7 +10221,7 @@
       "language": "Rust",
       "name": "wm94i/Work-Review",
       "needsReview": false,
-      "stargazers": 1833,
+      "stargazers": 1837,
       "starredAt": "2026-03-29T14:18:34Z",
       "summary": "自动记录每天用过的应用、访问的网站和各应用停留时长。",
       "tags": [
@@ -10231,7 +10252,7 @@
       "language": "C#",
       "name": "2dust/v2rayN",
       "needsReview": false,
-      "stargazers": 121170,
+      "stargazers": 121267,
       "starredAt": "2026-03-14T09:10:52Z",
       "summary": "支持 Xray 和 sing-box 的跨平台代理图形客户端。",
       "tags": [
@@ -10315,7 +10336,7 @@
       "language": "Swift",
       "name": "tddworks/ClaudeBar",
       "needsReview": false,
-      "stargazers": 1586,
+      "stargazers": 1594,
       "starredAt": "2026-02-26T07:36:21Z",
       "summary": "在 macOS 菜单栏查看 Claude、Codex、Gemini 等编程助手的用量配额。",
       "tags": [
@@ -10345,7 +10366,7 @@
       "language": "Swift",
       "name": "steipete/CodexBar",
       "needsReview": false,
-      "stargazers": 23269,
+      "stargazers": 23302,
       "starredAt": "2026-02-24T10:24:26Z",
       "summary": "无需登录即可查看 OpenAI Codex 和 Claude Code 用量的应用。",
       "tags": [
@@ -10372,7 +10393,7 @@
       "language": "C#",
       "name": "Tichau/FileConverter",
       "needsReview": false,
-      "stargazers": 15758,
+      "stargazers": 15772,
       "starredAt": "2025-10-30T15:36:21Z",
       "summary": "在 Windows 资源管理器右键里转换和压缩文件的工具。",
       "tags": [
@@ -10418,7 +10439,7 @@
       "language": "Rust",
       "name": "eythaann/Seelen-UI",
       "needsReview": false,
-      "stargazers": 18611,
+      "stargazers": 18638,
       "starredAt": "2025-09-19T01:29:16Z",
       "summary": "面向 Windows 10 与 11、可完全自定义的桌面环境。",
       "tags": [
@@ -10459,7 +10480,7 @@
       "language": "Swift",
       "name": "iHongRen/configEditor",
       "needsReview": false,
-      "stargazers": 284,
+      "stargazers": 285,
       "starredAt": "2025-07-20T11:53:27Z",
       "summary": "macOS 配置文件管理应用，用来查看和编辑 zshrc、gitconfig 等文件。",
       "tags": [
@@ -10484,7 +10505,7 @@
       "language": "C#",
       "name": "TGSAN/CMWTAT_Digital_Edition",
       "needsReview": false,
-      "stargazers": 19765,
+      "stargazers": 19768,
       "starredAt": "2025-04-23T12:11:29Z",
       "summary": "开源的 Windows 10 和 11 数字许可证激活工具。",
       "tags": [
@@ -10534,7 +10555,7 @@
       "language": "JavaScript",
       "name": "louislam/uptime-kuma",
       "needsReview": false,
-      "stargazers": 94759,
+      "stargazers": 94798,
       "starredAt": "2025-03-13T11:37:14Z",
       "summary": "界面美观的自托管服务可用性监控应用。",
       "tags": [
@@ -10656,7 +10677,7 @@
       "language": "TypeScript",
       "name": "clash-verge-rev/clash-verge-rev",
       "needsReview": false,
-      "stargazers": 159910,
+      "stargazers": 160190,
       "starredAt": "2024-08-22T03:50:59Z",
       "summary": "基于 Tauri 的跨平台 Clash 代理图形客户端。",
       "tags": [
@@ -10686,7 +10707,7 @@
       "language": "Kotlin",
       "name": "gkd-kit/gkd",
       "needsReview": true,
-      "stargazers": 45216,
+      "stargazers": 45308,
       "starredAt": "2024-01-16T06:15:37Z",
       "summary": "基于无障碍和订阅规则的安卓自动点击应用。",
       "tags": [
@@ -10822,7 +10843,7 @@
       "language": "Python",
       "name": "bojieli/ai-agent-book",
       "needsReview": false,
-      "stargazers": 59065,
+      "stargazers": 59626,
       "starredAt": "2026-08-07T14:40:41Z",
       "summary": "系统讲解 AI Agent 设计原理与工程实践的开源书和示例代码。",
       "tags": [
@@ -10857,7 +10878,7 @@
       "language": "Jupyter Notebook",
       "name": "evoiz/Agentic-Design-Patterns",
       "needsReview": true,
-      "stargazers": 4161,
+      "stargazers": 4180,
       "starredAt": "2026-05-28T06:00:17Z",
       "summary": "用 Jupyter 笔记本讲解智能体设计模式的教程资料。",
       "tags": [
@@ -10878,7 +10899,7 @@
       "language": "HTML",
       "name": "shanraisshan/claude-code-best-practice",
       "needsReview": false,
-      "stargazers": 69303,
+      "stargazers": 69361,
       "starredAt": "2026-04-13T15:43:10Z",
       "summary": "从 vibe coding 走向 agentic engineering 的 Claude Code 实践指南。",
       "tags": [
@@ -10920,7 +10941,7 @@
       "language": "JavaScript",
       "name": "andrewyng/context-hub",
       "needsReview": true,
-      "stargazers": 13994,
+      "stargazers": 13995,
       "starredAt": "2026-03-21T08:26:05Z",
       "summary": "context-hub 仓库，简介为空，从名称看与上下文工程有关。",
       "tags": [
@@ -10939,7 +10960,7 @@
       "language": "Python",
       "name": "shareAI-lab/claw0",
       "needsReview": true,
-      "stargazers": 3450,
+      "stargazers": 3453,
       "starredAt": "2026-03-20T16:06:38Z",
       "summary": "从零讲解如何搭建 OpenClaw 风格 AI Agent 的分步教程。",
       "tags": [
@@ -11001,7 +11022,7 @@
       "language": "TypeScript",
       "name": "Fission-AI/OpenSpec",
       "needsReview": false,
-      "stargazers": 75446,
+      "stargazers": 75566,
       "starredAt": "2026-03-10T16:54:51Z",
       "summary": "面向 AI 编程助手的规格驱动开发工具。",
       "tags": [
@@ -11075,7 +11096,7 @@
       "language": "Python",
       "name": "bmad-code-org/BMAD-METHOD",
       "needsReview": true,
-      "stargazers": 55621,
+      "stargazers": 55669,
       "starredAt": "2025-08-10T13:43:01Z",
       "summary": "一套敏捷 AI 驱动开发方法，强调上下文工程和规格驱动，并配套可安装的智能体工作流。",
       "tags": [
@@ -11102,7 +11123,7 @@
       "language": "Jupyter Notebook",
       "name": "anthropics/prompt-eng-interactive-tutorial",
       "needsReview": false,
-      "stargazers": 39646,
+      "stargazers": 39671,
       "starredAt": "2025-07-21T14:07:29Z",
       "summary": "Anthropic 的交互式提示词工程教程，用笔记本带你练习写提示。",
       "tags": [
@@ -11122,7 +11143,7 @@
       "language": "Python",
       "name": "coleam00/context-engineering-intro",
       "needsReview": false,
-      "stargazers": 13923,
+      "stargazers": 13925,
       "starredAt": "2025-07-16T14:28:25Z",
       "summary": "讲解上下文工程的入门教程，说明怎样让 Claude Code 等编程助手稳定完成任务。",
       "tags": [
@@ -11213,7 +11234,7 @@
       "language": "HTML",
       "name": "eternity4719/HowToLiveBetter",
       "needsReview": false,
-      "stargazers": 77035,
+      "stargazers": 77268,
       "starredAt": "2026-09-30T12:54:31Z",
       "summary": "按成本、收益和证据等级整理的人生指南，覆盖健康、理财、法律、社保和育儿。",
       "tags": [
@@ -11235,7 +11256,7 @@
       "language": "JavaScript",
       "name": "lgwebdream/FE-Interview",
       "needsReview": false,
-      "stargazers": 7206,
+      "stargazers": 7207,
       "starredAt": "2025-12-25T14:59:36Z",
       "summary": "收录大量前端面试真题与题解的刷题合集。",
       "tags": [
@@ -11311,7 +11332,7 @@
       "language": "TypeScript",
       "name": "birobirobiro/awesome-shadcn-ui",
       "needsReview": false,
-      "stargazers": 20846,
+      "stargazers": 20855,
       "starredAt": "2025-10-25T16:17:45Z",
       "summary": "一份精选的 shadcn/ui 相关资源清单。",
       "tags": [
@@ -11341,7 +11362,7 @@
       "language": "Python",
       "name": "hesreallyhim/awesome-claude-code",
       "needsReview": false,
-      "stargazers": 58570,
+      "stargazers": 58680,
       "starredAt": "2025-09-30T07:32:24Z",
       "summary": "精选 Claude Code 技能、插件、Agent 与配套工具的资源合集。",
       "tags": [
@@ -11416,7 +11437,7 @@
       "language": null,
       "name": "ruanyf/weekly",
       "needsReview": false,
-      "stargazers": 108535,
+      "stargazers": 108607,
       "starredAt": "2025-09-13T11:18:15Z",
       "summary": "阮一峰维护的科技爱好者周刊，每周五发布科技文章与链接。",
       "tags": [
@@ -11436,7 +11457,7 @@
       "language": "JavaScript",
       "name": "ascoders/weekly",
       "needsReview": false,
-      "stargazers": 31722,
+      "stargazers": 31726,
       "starredAt": "2025-08-13T02:01:06Z",
       "summary": "前端精读周刊，帮你读懂前沿且实用的前端技术。",
       "tags": [
@@ -11460,7 +11481,7 @@
       "language": "Swift",
       "name": "jaywcjlove/awesome-mac",
       "needsReview": false,
-      "stargazers": 119119,
+      "stargazers": 119200,
       "starredAt": "2025-03-03T05:43:09Z",
       "summary": "按类别整理的优质 macOS 软件清单。",
       "tags": [
@@ -11501,7 +11522,7 @@
       "language": null,
       "name": "sindresorhus/awesome",
       "needsReview": false,
-      "stargazers": 540837,
+      "stargazers": 541664,
       "starredAt": "2025-03-03T05:42:51Z",
       "summary": "汇集各主题 Awesome 清单的总目录。",
       "tags": [
@@ -11527,7 +11548,7 @@
       "language": null,
       "name": "GitHubDaily/GitHubDaily",
       "needsReview": false,
-      "stargazers": 48526,
+      "stargazers": 48543,
       "starredAt": "2025-02-18T16:16:19Z",
       "summary": "持续收录 GitHub 上优质开源项目、教程与开发者资讯的合集。",
       "tags": [
@@ -11584,7 +11605,7 @@
       "language": "Python",
       "name": "gaoypeng/3dcodeverse",
       "needsReview": true,
-      "stargazers": 413,
+      "stargazers": 416,
       "starredAt": "2026-11-02T05:38:30Z",
       "summary": "3DCodeVerse 的官方代码库，仓库说明未写明具体用途。",
       "tags": [
@@ -11604,7 +11625,7 @@
       "language": "Python",
       "name": "google-research/harness2",
       "needsReview": true,
-      "stargazers": 24748,
+      "stargazers": 24943,
       "starredAt": "2026-10-28T01:42:58Z",
       "summary": "Google Research 的 harness2 代码库，暂无简介。",
       "tags": [

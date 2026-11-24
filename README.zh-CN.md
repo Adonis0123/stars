@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-收录 398 个 GitHub 仓库和 24 条 X 帖子，分为 12 个分类。
+收录 398 个 GitHub 仓库和 25 条 X 帖子，分为 12 个分类。
 
 **[打开在线目录 →](https://adonis0123.github.io/stars/)** 可搜索、筛选，按 star 数排序。
 
@@ -14,7 +14,7 @@
 - [AI 图像与设计](#ai-图像与设计)（23）
 - [前端与 UI](#前端与-ui)（85）
 - [开发工具与终端](#开发工具与终端)（62）
-- [AI 应用与平台](#ai-应用与平台)（43）
+- [AI 应用与平台](#ai-应用与平台)（44）
 - [模型与评测](#模型与评测)（4）
 - [效率与桌面应用](#效率与桌面应用)（20）
 - [AI 工程方法与观点](#ai-工程方法与观点)（19）
@@ -370,6 +370,7 @@
 
 ## AI 应用与平台
 
+- X · [@don\_tech1](https://x.com/don_tech1/status/2124630542738202805) — Google 开源的零依赖 Go 命令行，供 AI Agent 调用 Gemini 多模态接口<br><sub>工具 · Gemini · CLI</sub>
 - X · [@ZeroZ\_JQ](https://x.com/ZeroZ_JQ/status/2124122596312801491) — 称赞 Claude 里的白板很好用，觉得特别适合学习<br><sub>文章/观点 · Claude · 白板</sub>
 - [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) — 供 AI Agent 使用的电脑桌面操作命令行工具<br><sub>Rust · 工具 · computer-use · CLI</sub>
 - [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) — 探索更自主 Agent 系统的 DeepSeek 原型<br><sub>TypeScript · 库 · Agent · DeepSeek</sub>
