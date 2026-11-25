@@ -2,22 +2,22 @@
 
 [English](README.md) | 简体中文
 
-收录 398 个 GitHub 仓库和 25 条 X 帖子，分为 12 个分类。
+收录 398 个 GitHub 仓库和 30 条 X 帖子，分为 12 个分类。
 
 **[打开在线目录 →](https://adonis0123.github.io/stars/)** 可搜索、筛选，按 star 数排序。
 
 ## 目录
 
 - [AI 编程 Agent](#ai-编程-agent)（37）
-- [Agent 技能与插件](#agent-技能与插件)（69）
+- [Agent 技能与插件](#agent-技能与插件)（70）
 - [AI 视频与动画](#ai-视频与动画)（41）
-- [AI 图像与设计](#ai-图像与设计)（23）
+- [AI 图像与设计](#ai-图像与设计)（26）
 - [前端与 UI](#前端与-ui)（85）
 - [开发工具与终端](#开发工具与终端)（62）
 - [AI 应用与平台](#ai-应用与平台)（44）
 - [模型与评测](#模型与评测)（4）
 - [效率与桌面应用](#效率与桌面应用)（20）
-- [AI 工程方法与观点](#ai-工程方法与观点)（19）
+- [AI 工程方法与观点](#ai-工程方法与观点)（20）
 - [资料合集](#资料合集)（15）
 - [未分类](#未分类)（4）
 
@@ -47,7 +47,7 @@
 - [yunsii/wezdeck](https://github.com/yunsii/wezdeck) — 基于 WezTerm、tmux 和 git worktree 的本地 AI 编程 Agent 控制平面<br><sub>Shell · 工具 · WezTerm · tmux</sub>
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) — 从零讲透如何实现一个类似 Claude Code 的迷你 agent harness<br><sub>Python · 教程 · Claude Code · agent harness</sub>
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) — 开源异步编程 Agent，用来自动完成软件工程任务<br><sub>Python · 工具 · 编程 Agent · 异步</sub>
-- [rexleimo/aios](https://github.com/rexleimo/aios) — 长程编程 Agent 的本地控制平面，管理记忆、路由和多 Agent 过夜任务<br><sub>HTML · 工具 · 编程 Agent · 多 Agent</sub>
+- [rexleimo/aios](https://github.com/rexleimo/aios) — 长程编程 Agent 的本地控制平面，管理记忆、路由和多 Agent 过夜任务<br><sub>JavaScript · 工具 · 编程 Agent · 多 Agent</sub>
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) — 把 Claude、OpenAI、Gemini 和 Grok 订阅统一转成 API 的中转服务<br><sub>Go · 工具 · API 中转 · Claude Code</sub>
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) — 用递归语言模型做代码审查的开源 Agent 工具<br><sub>Python · 工具 · 代码审查 · Agent</sub>
 - [openai/symphony](https://github.com/openai/symphony) — 把项目工作变成隔离的自主编码任务，让团队管理编程 Agent 的执行<br><sub>Elixir · 工具 · 编程Agent · 任务编排</sub>
@@ -65,6 +65,7 @@
 
 ## Agent 技能与插件
 
+- X · [@Zen\_with\_AI](https://x.com/Zen_with_AI/status/2124343573630025968) — Cursor 的 in-your-own-words skill 会先复述需求，方便确认 agent 理解后再开工<br><sub>Skill/插件 · Cursor · 需求复述</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2123798388227403983) — 一条让编程 Agent 把代码注释分成同义反复、借口等类型的长提示词<br><sub>Skill/插件 · 提示词 · 代码注释</sub>
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 让编程智能体用一页可读 HTML 回答复杂问题的技能<br><sub>JavaScript · Skill/插件 · HTML · Claude Code</sub>
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — 让编程智能体跟上最新 Web 最佳实践的指导工具<br><sub>工具 · Web · 最佳实践</sub>
@@ -185,6 +186,9 @@
 
 ## AI 图像与设计
 
+- X · [@Khazix0918](https://x.com/Khazix0918/status/2125110224143171669) — 分享用 Gemini 审查体验与动效的 Prompt：能判断的交给系统，没用的信息不出现<br><sub>教程 · Prompt · UX</sub>
+- X · [@kevindatas](https://x.com/kevindatas/status/2124866592303382910) — 推荐 15 个 UI 设计 GitHub 仓库，覆盖组件、图标、图表与主题，并提到 frontend-design skill<br><sub>合集 · UI设计 · GitHub</sub>
+- X · [@guanmo\_ai](https://x.com/guanmo_ai/status/2124714808779972850) — 第4期 UI 微交互动效合集，展示纸飞机、滑动确认、下载环、清单等缓动效果<br><sub>合集 · UI · 微交互</sub>
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — 给 Claude Code、Cursor 和 Codex 用的反 AI 俗套设计技能<br><sub>CSS · Skill/插件 · 设计 · Claude Code</sub>
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) — 配合 Stitch MCP 的智能体技能库，供编程智能体做界面设计<br><sub>TypeScript · Skill/插件 · 设计 · MCP</sub>
 - X · [@guivilelaa\_](https://x.com/guivilelaa_/status/2120298976419238016) — 主张做设计时给 AI 参考站和组件库截图，不要用设计类 Skill<br><sub>文章/观点 · UI设计 · 参考图</sub>
@@ -453,6 +457,7 @@
 
 ## AI 工程方法与观点
 
+- X · [@Khazix0918](https://x.com/Khazix0918/status/2124680457623425334) — 讲解如何让 Claude、GPT 与 Gemini 协同，并提到 GPT-6.2 Astra 和 Gemini 4 Neon<br><sub>教程 · 多模型 · Claude</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2124214098984370645) — 设想用滑动打分小应用逐句评价例句，让智能体学会你的写作风格<br><sub>文章/观点 · Agent · 写作风格</sub>
 - X · [@dotey](https://x.com/dotey/status/2120961974519398535) — 译文认为纯写代码的价值在下降，软件工程师应转向管理 AI<br><sub>文章/观点 · 软件工程师 · 职业</sub>
 - X · [@guyingjie129](https://x.com/guyingjie129/status/2120774019616285112) — 认为传统 DDD 已过时，应改用适合 Agent 的函数式领域建模并尽快动手<br><sub>文章/观点 · DDD · Agentic Coding</sub>
