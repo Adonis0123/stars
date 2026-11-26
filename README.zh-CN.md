@@ -2,14 +2,14 @@
 
 [English](README.md) | 简体中文
 
-收录 398 个 GitHub 仓库和 30 条 X 帖子，分为 12 个分类。
+收录 398 个 GitHub 仓库和 31 条 X 帖子，分为 12 个分类。
 
 **[打开在线目录 →](https://adonis0123.github.io/stars/)** 可搜索、筛选，按 star 数排序。
 
 ## 目录
 
 - [AI 编程 Agent](#ai-编程-agent)（37）
-- [Agent 技能与插件](#agent-技能与插件)（70）
+- [Agent 技能与插件](#agent-技能与插件)（71）
 - [AI 视频与动画](#ai-视频与动画)（41）
 - [AI 图像与设计](#ai-图像与设计)（26）
 - [前端与 UI](#前端与-ui)（85）
@@ -65,6 +65,7 @@
 
 ## Agent 技能与插件
 
+- X · [@RainG999](https://x.com/RainG999/status/2125471783159775237) — 按优先级整理 AGY 最提效的斜杠命令，包括动手前规划、中途插话和压缩过长对话<br><sub>教程 · AGY · 斜杠命令</sub>
 - X · [@Zen\_with\_AI](https://x.com/Zen_with_AI/status/2124343573630025968) — Cursor 的 in-your-own-words skill 会先复述需求，方便确认 agent 理解后再开工<br><sub>Skill/插件 · Cursor · 需求复述</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2123798388227403983) — 一条让编程 Agent 把代码注释分成同义反复、借口等类型的长提示词<br><sub>Skill/插件 · 提示词 · 代码注释</sub>
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 让编程智能体用一页可读 HTML 回答复杂问题的技能<br><sub>JavaScript · Skill/插件 · HTML · Claude Code</sub>

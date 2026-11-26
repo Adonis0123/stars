@@ -2,14 +2,14 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Collects 398 GitHub repositories and 30 X posts, in 12 Categories. Summaries and Tags are in Chinese.
+Collects 398 GitHub repositories and 31 X posts, in 12 Categories. Summaries and Tags are in Chinese.
 
 **[Open the online catalog →](https://adonis0123.github.io/stars/)** Search, filter and sort by stars there.
 
 ## Contents
 
 - [AI coding agents](#ai-coding-agents) (37)
-- [Agent skills and plugins](#agent-skills-and-plugins) (70)
+- [Agent skills and plugins](#agent-skills-and-plugins) (71)
 - [AI video and animation](#ai-video-and-animation) (41)
 - [AI images and design](#ai-images-and-design) (26)
 - [Front end and UI](#front-end-and-ui) (85)
@@ -65,6 +65,7 @@ Collects 398 GitHub repositories and 30 X posts, in 12 Categories. Summaries and
 
 ## Agent skills and plugins
 
+- X · [@RainG999](https://x.com/RainG999/status/2125471783159775237) — 按优先级整理 AGY 最提效的斜杠命令，包括动手前规划、中途插话和压缩过长对话<br><sub>教程 · AGY · 斜杠命令</sub>
 - X · [@Zen\_with\_AI](https://x.com/Zen_with_AI/status/2124343573630025968) — Cursor 的 in-your-own-words skill 会先复述需求，方便确认 agent 理解后再开工<br><sub>Skill/插件 · Cursor · 需求复述</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2123798388227403983) — 一条让编程 Agent 把代码注释分成同义反复、借口等类型的长提示词<br><sub>Skill/插件 · 提示词 · 代码注释</sub>
 - [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) — 让编程智能体用一页可读 HTML 回答复杂问题的技能<br><sub>JavaScript · Skill/插件 · HTML · Claude Code</sub>
