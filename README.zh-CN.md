@@ -2,14 +2,14 @@
 
 [English](README.md) | 简体中文
 
-收录 398 个 GitHub 仓库和 31 条 X 帖子，分为 12 个分类。
+收录 398 个 GitHub 仓库和 35 条 X 帖子，分为 12 个分类。
 
 **[打开在线目录 →](https://adonis0123.github.io/stars/)** 可搜索、筛选，按 star 数排序。
 
 ## 目录
 
-- [AI 编程 Agent](#ai-编程-agent)（37）
-- [Agent 技能与插件](#agent-技能与插件)（71）
+- [AI 编程 Agent](#ai-编程-agent)（39）
+- [Agent 技能与插件](#agent-技能与插件)（72）
 - [AI 视频与动画](#ai-视频与动画)（41）
 - [AI 图像与设计](#ai-图像与设计)（26）
 - [前端与 UI](#前端与-ui)（85）
@@ -17,12 +17,14 @@
 - [AI 应用与平台](#ai-应用与平台)（44）
 - [模型与评测](#模型与评测)（4）
 - [效率与桌面应用](#效率与桌面应用)（20）
-- [AI 工程方法与观点](#ai-工程方法与观点)（20）
+- [AI 工程方法与观点](#ai-工程方法与观点)（21）
 - [资料合集](#资料合集)（15）
 - [未分类](#未分类)（4）
 
 ## AI 编程 Agent
 
+- X · [@yetone](https://x.com/yetone/status/2125882529932816573) — 说明在 Magpie 里统一管理 MCP：授权一次即可跨 Agent 使用，并集中维护版本与安装卸载<br><sub>文章/观点 · MCP · Magpie</sub>
+- X · [@mingzi206](https://x.com/mingzi206/status/2125600991924142405) — 介绍把 Colab CLI 等工具接进 Antigravity，以便用掉 Google AI 会员的显卡和额度<br><sub>教程 · Antigravity · Colab</sub>
 - X · [@FiniYang](https://x.com/FiniYang/status/2123725927414972793) — 讲解用 AI 从一句话做微信 3D 小游戏、过审到接广告的四步流程，并附开源插件与提示词<br><sub>教程 · 微信小游戏 · Agent</sub>
 - [sandbox-quantum/switch](https://github.com/sandbox-quantum/switch) — 自托管编排应用，把 Claude Code、Codex 等编程智能体接入 Slack 等聊天工具<br><sub>Python · 应用 · 多智能体 · MCP</sub>
 - X · [@poteto](https://x.com/poteto/status/2123159537016533493) — 讲解如何用 Grok Bot 把各类事务自动化<br><sub>教程 · Grok Bot · 自动化</sub>
@@ -65,6 +67,7 @@
 
 ## Agent 技能与插件
 
+- X · [@oran\_ge](https://x.com/oran_ge/status/2125789243134124334) — 分享一批清除 AI 味的 Skill，覆盖文章改写以及排版、logo 和字体设计<br><sub>Skill/插件 · 去AI味 · 文案</sub>
 - X · [@RainG999](https://x.com/RainG999/status/2125471783159775237) — 按优先级整理 AGY 最提效的斜杠命令，包括动手前规划、中途插话和压缩过长对话<br><sub>教程 · AGY · 斜杠命令</sub>
 - X · [@Zen\_with\_AI](https://x.com/Zen_with_AI/status/2124343573630025968) — Cursor 的 in-your-own-words skill 会先复述需求，方便确认 agent 理解后再开工<br><sub>Skill/插件 · Cursor · 需求复述</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2123798388227403983) — 一条让编程 Agent 把代码注释分成同义反复、借口等类型的长提示词<br><sub>Skill/插件 · 提示词 · 代码注释</sub>
@@ -416,7 +419,7 @@
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) — 把 Agent 和生成式界面嵌入 React 等前端的开发库<br><sub>TypeScript · 库 · React · Agent</sub>
 - [vercel/chatbot](https://github.com/vercel/chatbot) — Vercel 出品、基于 Next.js 可改造的全功能 AI 聊天机器人模板<br><sub>TypeScript · 模板 · Next.js · 聊天机器人</sub>
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) — 用自然语言做端到端测试的 GUI Agent，能像人一样操作网页和手机界面<br><sub>TypeScript · 工具 · GUI Agent · E2E</sub>
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 聚合多平台热点和 RSS 的 AI 舆情监控应用，可筛选新闻、生成简报并推送到常用渠道<br><sub>Python · 应用 · 舆情监控 · RSS</sub>
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) — 聚合多平台热点和 RSS 的 AI 舆情监控应用，可筛选新闻、生成简报并推送到常用渠道<br><sub>TypeScript · 应用 · 舆情监控 · RSS</sub>
 - [microsoft/autogen](https://github.com/microsoft/autogen) — 微软开源的智能体开发框架，用来构建可互相协作的 AI Agent<br><sub>Python · 库 · Agent 框架 · 多智能体</sub>
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) — 面向智能体的检索增强生成引擎与上下文基础设施<br><sub>Go · 应用 · RAG · 检索</sub>
 
@@ -458,6 +461,7 @@
 
 ## AI 工程方法与观点
 
+- X · [@goldengrape](https://x.com/goldengrape/status/2125757143051809049) — 用 ChatGPT 或 Gemini 提取开源项目功能需求，并用 MIT 公理设计检查设计矩阵是否解耦<br><sub>教程 · 公理设计 · 软件设计</sub>
 - X · [@Khazix0918](https://x.com/Khazix0918/status/2124680457623425334) — 讲解如何让 Claude、GPT 与 Gemini 协同，并提到 GPT-6.2 Astra 和 Gemini 4 Neon<br><sub>教程 · 多模型 · Claude</sub>
 - X · [@mattpocockuk](https://x.com/mattpocockuk/status/2124214098984370645) — 设想用滑动打分小应用逐句评价例句，让智能体学会你的写作风格<br><sub>文章/观点 · Agent · 写作风格</sub>
 - X · [@dotey](https://x.com/dotey/status/2120961974519398535) — 译文认为纯写代码的价值在下降，软件工程师应转向管理 AI<br><sub>文章/观点 · 软件工程师 · 职业</sub>
