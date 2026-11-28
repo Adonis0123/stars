@@ -2,7 +2,7 @@
 
 English | [简体中文](README.zh-CN.md)
 
-Collects 398 GitHub repositories and 35 X posts, in 12 Categories. Summaries and Tags are in Chinese.
+Collects 398 GitHub repositories and 37 X posts, in 12 Categories. Summaries and Tags are in Chinese.
 
 **[Open the online catalog →](https://adonis0123.github.io/stars/)** Search, filter and sort by stars there.
 
@@ -11,8 +11,8 @@ Collects 398 GitHub repositories and 35 X posts, in 12 Categories. Summaries and
 - [AI coding agents](#ai-coding-agents) (39)
 - [Agent skills and plugins](#agent-skills-and-plugins) (72)
 - [AI video and animation](#ai-video-and-animation) (41)
-- [AI images and design](#ai-images-and-design) (26)
-- [Front end and UI](#front-end-and-ui) (85)
+- [AI images and design](#ai-images-and-design) (27)
+- [Front end and UI](#front-end-and-ui) (86)
 - [Developer tools and terminals](#developer-tools-and-terminals) (62)
 - [AI apps and platforms](#ai-apps-and-platforms) (44)
 - [Models and benchmarks](#models-and-benchmarks) (4)
@@ -165,7 +165,7 @@ Collects 398 GitHub repositories and 35 X posts, in 12 Categories. Summaries and
 - [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — 收集 Claude Opus 5.5 做出的爆款视频和对应提示词，并可对照在线重制<br><sub>合集 · AI视频 · Claude</sub>
 - [feitangyuan/onetake](https://github.com/feitangyuan/onetake) — 用编程代理做一镜到底的产品发布片，镜头连续生长并校验连续性<br><sub>Python · Skill/插件 · 一镜到底 · 产品发布</sub>
 - [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) — 复用真实产品组件，用代码制作软件更新宣传片的技能，含分镜、配乐和渲染<br><sub>Python · Skill/插件 · 产品视频 · HyperFrames</sub>
-- [iterative-computer/powermove](https://github.com/iterative-computer/powermove) — 会按对话就地改写自身的视频编辑器，改动可以撤销<br><sub>TypeScript · 应用 · 视频编辑</sub>
+- [iterative-computer/powermove](https://github.com/iterative-computer/powermove) — 会按对话就地改写自身的视频编辑器，改动可以撤销<br><sub>Rust · 应用 · 视频编辑</sub>
 - [huangbai-AI/post-production-skill](https://github.com/huangbai-AI/post-production-skill) — 用于 AI 视频后期的技能，可生成电影级特效、转场、镜头和合成提示词<br><sub>Skill/插件 · 视频后期 · VFX</sub>
 - [0xsline/OpenChatCut](https://github.com/0xsline/OpenChatCut) — 本地优先的对话式 AI 视频编辑器，带多轨时间线、技能接入和 Remotion 渲染<br><sub>TypeScript · 应用 · 视频编辑 · Remotion</sub>
 - [JimLiu/baocut](https://github.com/JimLiu/baocut) — 带可编辑时间线的 AI 视频代理，能转写、字幕、翻译、配音和剪辑<br><sub>TypeScript · 应用 · 视频剪辑 · 字幕</sub>
@@ -190,6 +190,7 @@ Collects 398 GitHub repositories and 35 X posts, in 12 Categories. Summaries and
 
 ## AI images and design
 
+- X · [@lemomo\_ai](https://x.com/lemomo_ai/status/2126110941712720360) — 讲在做精细界面之前，先用前端设计规范让 AI 写出干净界面<br><sub>教程 · UI设计 · 前端规范</sub>
 - X · [@Khazix0918](https://x.com/Khazix0918/status/2125110224143171669) — 分享用 Gemini 审查体验与动效的 Prompt：能判断的交给系统，没用的信息不出现<br><sub>教程 · Prompt · UX</sub>
 - X · [@kevindatas](https://x.com/kevindatas/status/2124866592303382910) — 推荐 15 个 UI 设计 GitHub 仓库，覆盖组件、图标、图表与主题，并提到 frontend-design skill<br><sub>合集 · UI设计 · GitHub</sub>
 - X · [@guanmo\_ai](https://x.com/guanmo_ai/status/2124714808779972850) — 第4期 UI 微交互动效合集，展示纸飞机、滑动确认、下载环、清单等缓动效果<br><sub>合集 · UI · 微交互</sub>
@@ -221,6 +222,7 @@ Collects 398 GitHub repositories and 35 X posts, in 12 Categories. Summaries and
 
 ## Front end and UI
 
+- X · [@aehyok](https://x.com/aehyok/status/2126191397674078234) — 分享微信小游戏用到的开源技术，并记录在 Mac 上从零开发小程序的步骤<br><sub>教程 · 微信小游戏 · 小程序</sub>
 - X · [@criscxuan](https://x.com/criscxuan/status/2123814929941819610) — 推荐 Awwwards 本月优秀网站合集，称其为顶尖网页创意展示<br><sub>合集 · 网页设计 · Awwwards</sub>
 - [gl-transitions/gl-transitions](https://github.com/gl-transitions/gl-transitions) — 用 GLSL 编写的开源 WebGL 转场效果集合<br><sub>GLSL · 库 · WebGL · 转场</sub>
 - [finktheartist/rubber-hose-ui](https://github.com/finktheartist/rubber-hose-ui) — 把常见界面控件画成橡皮管卡通角色的无依赖前端组件<br><sub>JavaScript · 库 · UI · 动画</sub>
